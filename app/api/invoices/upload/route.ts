@@ -1,6 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { invoiceArraySchema } from "@/lib/validators/invoice";
 import { processInvoiceData } from "@/lib/db/queries";
+import type { InvoiceData } from "@/types";
+
+// Configure route segment for longer timeout
+export const maxDuration = 300; // 5 minutes
+export const runtime = "nodejs";
 
 function sendSSE(
   controller: ReadableStreamDefaultController,
@@ -9,6 +14,55 @@ function sendSSE(
 ) {
   const message = `event: ${event}\ndata: ${JSON.stringify(data)}\n\n`;
   controller.enqueue(new TextEncoder().encode(message));
+}
+
+function sendKeepAlive(controller: ReadableStreamDefaultController) {
+  // Send a comment line to keep the connection alive
+  controller.enqueue(new TextEncoder().encode(": keep-alive\n\n"));
+}
+
+/**
+ * Process invoices in parallel batches
+ */
+async function processBatch(
+  invoices: InvoiceData[],
+  batchSize: number = 15
+): Promise<{
+  succeeded: number;
+  errors: Array<{ invoiceId: string; error: string }>;
+}> {
+  const results = {
+    succeeded: 0,
+    errors: [] as Array<{ invoiceId: string; error: string }>,
+  };
+
+  // Process in batches to avoid overwhelming the database
+  for (let i = 0; i < invoices.length; i += batchSize) {
+    const batch = invoices.slice(i, i + batchSize);
+
+    // Process batch in parallel
+    const batchResults = await Promise.allSettled(
+      batch.map((invoice) => processInvoiceData(invoice))
+    );
+
+    // Collect results
+    batchResults.forEach((result, index) => {
+      const invoice = batch[index];
+      if (result.status === "fulfilled") {
+        results.succeeded++;
+      } else {
+        results.errors.push({
+          invoiceId: invoice.id,
+          error:
+            result.reason instanceof Error
+              ? result.reason.message
+              : "Unknown error occurred",
+        });
+      }
+    });
+  }
+
+  return results;
 }
 
 export async function POST(request: NextRequest) {
@@ -64,30 +118,50 @@ export async function POST(request: NextRequest) {
           };
 
           try {
-            for (let i = 0; i < invoices.length; i++) {
-              const invoice = invoices[i];
-              try {
-                await processInvoiceData(invoice);
-                results.succeeded++;
-              } catch (error) {
-                results.errors.push({
-                  invoiceId: invoice.id,
-                  error:
-                    error instanceof Error
-                      ? error.message
-                      : "Unknown error occurred",
-                });
+            const batchSize = 15; // Process 15 invoices in parallel per batch
+            let lastKeepAlive = Date.now();
+            const keepAliveInterval = 20000; // Send keep-alive every 20 seconds
+
+            // Process in batches
+            for (let i = 0; i < invoices.length; i += batchSize) {
+              const batch = invoices.slice(i, i + batchSize);
+
+              // Send keep-alive if needed
+              const now = Date.now();
+              if (now - lastKeepAlive > keepAliveInterval) {
+                sendKeepAlive(controller);
+                lastKeepAlive = now;
               }
 
-              // Always increment processed counter and send progress
-              // This ensures progress bar moves forward even when invoices fail
-              results.processed++;
+              // Process batch in parallel
+              const batchResults = await Promise.allSettled(
+                batch.map((invoice) => processInvoiceData(invoice))
+              );
 
-              // Send progress event for every invoice processed
-              sendSSE(controller, "progress", {
-                processed: results.processed,
-                total: invoices.length,
-                currentInvoiceId: invoice.id,
+              // Update results and send progress
+              batchResults.forEach((result, batchIndex) => {
+                const invoice = batch[batchIndex];
+
+                if (result.status === "fulfilled") {
+                  results.succeeded++;
+                } else {
+                  results.errors.push({
+                    invoiceId: invoice.id,
+                    error:
+                      result.reason instanceof Error
+                        ? result.reason.message
+                        : "Unknown error occurred",
+                  });
+                }
+
+                results.processed++;
+
+                // Send progress event for every invoice processed
+                sendSSE(controller, "progress", {
+                  processed: results.processed,
+                  total: invoices.length,
+                  currentInvoiceId: invoice.id,
+                });
               });
             }
 
@@ -128,24 +202,13 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Original non-SSE behavior for backward compatibility
-    const results = {
-      processed: 0,
-      errors: [] as Array<{ invoiceId: string; error: string }>,
-    };
+    // Original non-SSE behavior for backward compatibility (also uses batch processing)
+    const batchResults = await processBatch(invoices);
 
-    for (const invoice of invoices) {
-      try {
-        await processInvoiceData(invoice);
-        results.processed++;
-      } catch (error) {
-        results.errors.push({
-          invoiceId: invoice.id,
-          error:
-            error instanceof Error ? error.message : "Unknown error occurred",
-        });
-      }
-    }
+    const results = {
+      processed: batchResults.succeeded + batchResults.errors.length,
+      errors: batchResults.errors,
+    };
 
     if (results.errors.length > 0 && results.processed === 0) {
       // All failed
