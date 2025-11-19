@@ -71,12 +71,33 @@ export function connectSSE(
       reader = response.body.getReader();
       const decoder = new TextDecoder();
       let buffer = "";
-      let currentEvent: string | null = null;
+      let lastEvent: string | null = null;
+      let receivedComplete = false;
 
       while (true) {
-        const { done, value } = await reader.read();
+        let readResult;
+        try {
+          readResult = await reader.read();
+        } catch (readError) {
+          // Connection might have been interrupted
+          handlers.onError?.({
+            message: `Connection interrupted: ${
+              readError instanceof Error ? readError.message : "Unknown error"
+            }`,
+          });
+          break;
+        }
+
+        const { done, value } = readResult;
 
         if (done) {
+          // Stream ended - check if we got a complete event
+          if (!receivedComplete && lastEvent !== "error") {
+            // Stream ended unexpectedly
+            handlers.onError?.({
+              message: "Connection closed unexpectedly before completion",
+            });
+          }
           break;
         }
 
@@ -87,8 +108,13 @@ export function connectSSE(
         for (const message of messages) {
           if (!message.trim()) continue;
 
+          // Handle keep-alive comments
+          if (message.trim().startsWith(":")) {
+            continue;
+          }
+
           const lines = message.split("\n");
-          currentEvent = null;
+          let currentEvent: string | null = null;
           let dataStr = "";
 
           for (const line of lines) {
@@ -105,16 +131,22 @@ export function connectSSE(
 
               if (currentEvent === "progress") {
                 handlers.onProgress?.(data as SSEProgressEvent);
+                lastEvent = "progress";
               } else if (currentEvent === "complete") {
+                receivedComplete = true;
+                lastEvent = "complete";
                 handlers.onComplete?.(data as SSECompleteEvent);
                 break;
               } else if (currentEvent === "error") {
+                lastEvent = "error";
                 handlers.onError?.(data as SSEErrorEvent);
                 break;
               }
             } catch (e) {
-              // Ignore JSON parse errors
-              console.error("Failed to parse SSE data:", e);
+              // Ignore JSON parse errors for keep-alive and other non-data messages
+              if (!message.trim().startsWith(":")) {
+                console.error("Failed to parse SSE data:", e, message);
+              }
             }
           }
         }

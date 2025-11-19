@@ -118,51 +118,127 @@ export async function POST(request: NextRequest) {
           };
 
           try {
-            const batchSize = 15; // Process 15 invoices in parallel per batch
+            const batchSize = 10; // Reduced batch size to avoid overwhelming Supabase
             let lastKeepAlive = Date.now();
-            const keepAliveInterval = 20000; // Send keep-alive every 20 seconds
+            const keepAliveInterval = 8000; // Send keep-alive every 8 seconds (very frequent)
+
+            // Send initial keep-alive
+            try {
+              sendKeepAlive(controller);
+            } catch (e) {
+              console.error("Failed to send initial keep-alive:", e);
+            }
 
             // Process in batches
             for (let i = 0; i < invoices.length; i += batchSize) {
-              const batch = invoices.slice(i, i + batchSize);
+              try {
+                const batch = invoices.slice(i, i + batchSize);
 
-              // Send keep-alive if needed
-              const now = Date.now();
-              if (now - lastKeepAlive > keepAliveInterval) {
-                sendKeepAlive(controller);
-                lastKeepAlive = now;
-              }
+                // Send keep-alive before each batch if needed
+                const now = Date.now();
+                if (now - lastKeepAlive > keepAliveInterval) {
+                  try {
+                    sendKeepAlive(controller);
+                    lastKeepAlive = now;
+                  } catch (e) {
+                    // Stream might be closed, but continue processing
+                    console.error("Failed to send keep-alive:", e);
+                  }
+                }
 
-              // Process batch in parallel
-              const batchResults = await Promise.allSettled(
-                batch.map((invoice) => processInvoiceData(invoice))
-              );
+                // Process batch in parallel with timeout protection
+                const batchStartTime = Date.now();
+                const batchResults = await Promise.allSettled(
+                  batch.map((invoice) =>
+                    Promise.race([
+                      processInvoiceData(invoice),
+                      new Promise((_, reject) =>
+                        setTimeout(
+                          () => reject(new Error("Invoice processing timeout")),
+                          30000
+                        )
+                      ),
+                    ])
+                  )
+                );
 
-              // Update results and send progress
-              batchResults.forEach((result, batchIndex) => {
-                const invoice = batch[batchIndex];
+                // Send keep-alive if batch took a long time
+                const batchDuration = Date.now() - batchStartTime;
+                if (batchDuration > keepAliveInterval) {
+                  try {
+                    sendKeepAlive(controller);
+                    lastKeepAlive = Date.now();
+                  } catch (e) {
+                    console.error("Failed to send keep-alive after batch:", e);
+                  }
+                }
 
-                if (result.status === "fulfilled") {
-                  results.succeeded++;
-                } else {
+                // Update results and send progress
+                batchResults.forEach((result, batchIndex) => {
+                  const invoice = batch[batchIndex];
+
+                  if (result.status === "fulfilled") {
+                    results.succeeded++;
+                  } else {
+                    results.errors.push({
+                      invoiceId: invoice.id,
+                      error:
+                        result.reason instanceof Error
+                          ? result.reason.message
+                          : "Unknown error occurred",
+                    });
+                  }
+
+                  results.processed++;
+
+                  // Send progress event for every invoice processed
+                  try {
+                    sendSSE(controller, "progress", {
+                      processed: results.processed,
+                      total: invoices.length,
+                      currentInvoiceId: invoice.id,
+                    });
+                  } catch (e) {
+                    // If stream is closed, log but continue processing
+                    console.error("Failed to send progress event:", e);
+                  }
+                });
+
+                // Small delay between batches to avoid overwhelming the database
+                if (i + batchSize < invoices.length) {
+                  await new Promise((resolve) => setTimeout(resolve, 50));
+                }
+              } catch (batchError) {
+                // If entire batch fails, log but continue with next batch
+                console.error(
+                  `Batch ${i}-${i + batchSize} failed:`,
+                  batchError
+                );
+                // Mark all items in this batch as errors
+                const batch = invoices.slice(i, i + batchSize);
+                batch.forEach((invoice) => {
                   results.errors.push({
                     invoiceId: invoice.id,
                     error:
-                      result.reason instanceof Error
-                        ? result.reason.message
-                        : "Unknown error occurred",
+                      batchError instanceof Error
+                        ? batchError.message
+                        : "Batch processing failed",
                   });
-                }
-
-                results.processed++;
-
-                // Send progress event for every invoice processed
-                sendSSE(controller, "progress", {
-                  processed: results.processed,
-                  total: invoices.length,
-                  currentInvoiceId: invoice.id,
+                  results.processed++;
+                  try {
+                    sendSSE(controller, "progress", {
+                      processed: results.processed,
+                      total: invoices.length,
+                      currentInvoiceId: invoice.id,
+                    });
+                  } catch (e) {
+                    console.error(
+                      "Failed to send progress after batch error:",
+                      e
+                    );
+                  }
                 });
-              });
+              }
             }
 
             // Send completion event
