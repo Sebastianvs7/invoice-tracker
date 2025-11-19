@@ -1,0 +1,22 @@
+diff --git a/node_modules/next/.DS_Store b/node_modules/next/.DS_Store
+new file mode 100644
+index 0000000..2903278
+Binary files /dev/null and b/node_modules/next/.DS_Store differ
+diff --git a/node_modules/next/dist/.DS_Store b/node_modules/next/dist/.DS_Store
+new file mode 100644
+index 0000000..265af4d
+Binary files /dev/null and b/node_modules/next/dist/.DS_Store differ
+diff --git a/node_modules/next/dist/server/lib/start-server.js b/node_modules/next/dist/server/lib/start-server.js
+index dadd9d9..4ac3607 100644
+--- a/node_modules/next/dist/server/lib/start-server.js
++++ b/node_modules/next/dist/server/lib/start-server.js
+@@ -250,6 +250,9 @@ async function startServer(serverOptions) {
+     if (keepAliveTimeout) {
+         server.keepAliveTimeout = keepAliveTimeout;
+     }
++    // Update requestTimeout to allow for long lasting requests (i.e. file uploads)
++    // https://github.com/vercel/next.js/discussions/71651
++    server.requestTimeout = 3600000; // 1 hour
+     server.on('upgrade', async (req, socket, head)=>{
+         try {
+             await upgradeHandler(req, socket, head);
