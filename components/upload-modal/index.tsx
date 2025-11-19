@@ -52,7 +52,7 @@ export default function UploadModal({
       }}
     >
       <DialogContent
-        className="w-full max-w-7xl h-[85vh] overflow-hidden flex flex-col"
+        className="w-full max-w-[90%] h-[85vh] overflow-hidden flex flex-col"
         showCloseButton={!isUploading}
         onEscapeKeyDown={(e) => {
           // Prevent ESC key from closing when uploading
