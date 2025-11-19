@@ -1,0 +1,5618 @@
+[
+  {
+    "id": "l1_jBBwlOU_4f35cv2EkZ",
+    "shipment": {
+      "id": "C0rObn-VBp7LRriscBAyU",
+      "createdAt": "2025-10-28T13:54:13.783Z",
+      "trackingNumber": "853052217569",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GA"
+    },
+    "invoicedWeight": 25.35,
+    "invoicedPrice": 246
+  },
+  {
+    "id": "46KyWoD3ZWQcWKKawPxf4",
+    "shipment": {
+      "id": "STEiB2JjQ36b46a7rlyqo",
+      "createdAt": "2025-11-12T02:18:58.577Z",
+      "trackingNumber": "260666685043",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "GG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 21.06,
+    "invoicedPrice": 2736
+  },
+  {
+    "id": "vOTW4d_kxefP6EOG4yz3L",
+    "shipment": {
+      "id": "i-OPuSOrz3o839hQxg1Lg",
+      "createdAt": "2025-10-23T14:03:11.803Z",
+      "trackingNumber": "453741514831",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BN"
+    },
+    "invoicedWeight": 28.91,
+    "invoicedPrice": 1441
+  },
+  {
+    "id": "VmaMSAnwcrHvuA9Hc1g_y",
+    "shipment": {
+      "id": "_ZFgsRv-sSjRW6-pybCJr",
+      "createdAt": "2025-10-21T16:18:59.636Z",
+      "trackingNumber": "731244252432",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "RU"
+    },
+    "invoicedWeight": 25.94,
+    "invoicedPrice": 2712
+  },
+  {
+    "id": "wRA9DUTiWXfpUrA499CN7",
+    "shipment": {
+      "id": "y3e16aUn6xSLmb-udFYY5",
+      "createdAt": "2025-11-12T05:15:30.888Z",
+      "trackingNumber": "762463713014",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MU"
+    },
+    "invoicedWeight": 28.11,
+    "invoicedPrice": 1044
+  },
+  {
+    "id": "DquTkfPuCENYJpIMaAa8b",
+    "shipment": {
+      "id": "GmfTtE6psSCNtnZQWjD8F",
+      "createdAt": "2025-10-26T02:34:11.484Z",
+      "trackingNumber": "880214156645",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IO"
+    },
+    "invoicedWeight": 11.13,
+    "invoicedPrice": 646
+  },
+  {
+    "id": "lWiMtjhar57XgKtxrH7EH",
+    "shipment": {
+      "id": "N1KwDUfanCkVy1uo6yT9E",
+      "createdAt": "2025-11-03T01:34:38.623Z",
+      "trackingNumber": "963583766907",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "NZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 24.98,
+    "invoicedPrice": 2617
+  },
+  {
+    "id": "xtGrUbUrBHxxBZ0iE7VpI",
+    "shipment": {
+      "id": "UqGlh9LpM2mr4-1OoStoD",
+      "createdAt": "2025-10-15T09:53:50.634Z",
+      "trackingNumber": "258904839901",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CR"
+    },
+    "invoicedWeight": 25.31,
+    "invoicedPrice": 1666
+  },
+  {
+    "id": "X0B1kT-_KAJNedQ03fOsd",
+    "shipment": {
+      "id": "8hyZtDjSzOI35Ftm3RW6h",
+      "createdAt": "2025-10-15T14:45:52.698Z",
+      "trackingNumber": "548439300801",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KE"
+    },
+    "invoicedWeight": 10.95,
+    "invoicedPrice": 2086
+  },
+  {
+    "id": "VStABVtr0Y9746pB4FQm3",
+    "shipment": {
+      "id": "9Y9wOe-sG8Ht2pwVXf2rM",
+      "createdAt": "2025-10-29T09:35:31.628Z",
+      "trackingNumber": "493470396404",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HR"
+    },
+    "invoicedWeight": 17.61,
+    "invoicedPrice": 2409
+  },
+  {
+    "id": "x4xuv4VNVDX33P1I_dTv-",
+    "shipment": {
+      "id": "3GEOq7ZVmYPFCjzYZbSWU",
+      "createdAt": "2025-11-04T12:06:03.567Z",
+      "trackingNumber": "290213789163",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "NA",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 3.75,
+    "invoicedPrice": 859
+  },
+  {
+    "id": "Aox4NqZ6rRdOvuhLDEAuD",
+    "shipment": {
+      "id": "5PUPyWWsZrtOXrsKysLBI",
+      "createdAt": "2025-10-24T14:28:41.736Z",
+      "trackingNumber": "121584566677",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "UA"
+    },
+    "invoicedWeight": 9.83,
+    "invoicedPrice": 1653
+  },
+  {
+    "id": "uZlvdrx-XQLKhX_MnTXx6",
+    "shipment": {
+      "id": "Zu0Wadsxf0x9DKUQJ20bq",
+      "createdAt": "2025-10-18T05:50:01.359Z",
+      "trackingNumber": "091282442578",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "NI",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 26.13,
+    "invoicedPrice": 2054
+  },
+  {
+    "id": "E18OjZqXByaRRWoZ3lwAM",
+    "shipment": {
+      "id": "Dl3T2pUAPRqxGL7ewmNMR",
+      "createdAt": "2025-10-23T13:03:13.565Z",
+      "trackingNumber": "837778960584",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HT"
+    },
+    "invoicedWeight": 17.71,
+    "invoicedPrice": 113
+  },
+  {
+    "id": "gz3uUIHumywctMAo2lLeI",
+    "shipment": {
+      "id": "kgf4DH95-caCukZ1KM5TS",
+      "createdAt": "2025-11-09T17:46:46.753Z",
+      "trackingNumber": "336952173949",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GB"
+    },
+    "invoicedWeight": 5.46,
+    "invoicedPrice": 2390
+  },
+  {
+    "id": "TNWlY4Ylp79mw7pHijK73",
+    "shipment": {
+      "id": "6Wmz7JdaktkaTaY7QJZOJ",
+      "createdAt": "2025-11-02T01:32:23.619Z",
+      "trackingNumber": "725240007451",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AL"
+    },
+    "invoicedWeight": 5.24,
+    "invoicedPrice": 812
+  },
+  {
+    "id": "Gd37KlYDdVewvv03OZWdK",
+    "shipment": {
+      "id": "8wLPKmbJrhjv_MepxtqyR",
+      "createdAt": "2025-10-29T00:31:26.977Z",
+      "trackingNumber": "244139502200",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CL"
+    },
+    "invoicedWeight": 21.94,
+    "invoicedPrice": 277
+  },
+  {
+    "id": "tSoFvjx_HJt1Y3aKEepUL",
+    "shipment": {
+      "id": "EjyhMwTSSgAC9SID7JWqI",
+      "createdAt": "2025-10-20T14:37:59.705Z",
+      "trackingNumber": "632040162334",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "KZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 15.21,
+    "invoicedPrice": 543
+  },
+  {
+    "id": "SCr_2OvyDP1oqeiWRSVIy",
+    "shipment": {
+      "id": "m8IFKnlPx7GZE4aBKnhNS",
+      "createdAt": "2025-10-19T10:45:14.818Z",
+      "trackingNumber": "983590851965",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "NU"
+    },
+    "invoicedWeight": 20.73,
+    "invoicedPrice": 1346
+  },
+  {
+    "id": "iBirvtGEoTxMPx9CKhctz",
+    "shipment": {
+      "id": "8vCARlgL53SlO9VLPEDNz",
+      "createdAt": "2025-10-21T12:59:03.136Z",
+      "trackingNumber": "026504425880",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "KR",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.45,
+    "invoicedPrice": 2290
+  },
+  {
+    "id": "ie4-rYgEX61B6GL2TxHtb",
+    "shipment": {
+      "id": "qIQ66EP6_QMQyOeLEhr3U",
+      "createdAt": "2025-11-10T12:17:24.345Z",
+      "trackingNumber": "753170936692",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GF"
+    },
+    "invoicedWeight": 21.95,
+    "invoicedPrice": 2437
+  },
+  {
+    "id": "pGlBViz-293OScPXUAIlZ",
+    "shipment": {
+      "id": "x1E4DnlpY12wjx2aCG3y0",
+      "createdAt": "2025-11-12T13:15:15.499Z",
+      "trackingNumber": "446298188918",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "MC",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 12.95,
+    "invoicedPrice": 3096
+  },
+  {
+    "id": "8HM81HyO6qNfCQIywha0Z",
+    "shipment": {
+      "id": "M565CDZB3Twy-gxIyxyp9",
+      "createdAt": "2025-10-31T05:26:45.501Z",
+      "trackingNumber": "163371853982",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "WS",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 12.79,
+    "invoicedPrice": 541
+  },
+  {
+    "id": "eZTBO9C3Ak--uRjMGvcf8",
+    "shipment": {
+      "id": "5qsAoATf58grlDOOoZajH",
+      "createdAt": "2025-11-09T11:55:00.960Z",
+      "trackingNumber": "068149976251",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BV"
+    },
+    "invoicedWeight": 19.98,
+    "invoicedPrice": 1423
+  },
+  {
+    "id": "Aq1zzSb48xYAemR-tjF4E",
+    "shipment": {
+      "id": "h0ymyq4OqEyeHFzkAV7Jj",
+      "createdAt": "2025-10-14T02:56:20.548Z",
+      "trackingNumber": "382860069351",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "IT",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 4.93,
+    "invoicedPrice": 3231
+  },
+  {
+    "id": "kHSmFY9mtlg4k8c8V4qcH",
+    "shipment": {
+      "id": "2pATedxno-TEtm-YtjDuu",
+      "createdAt": "2025-10-18T14:59:05.545Z",
+      "trackingNumber": "078838275248",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AO"
+    },
+    "invoicedWeight": 1.09,
+    "invoicedPrice": 2146
+  },
+  {
+    "id": "CGcazUO6yvbBygypk5gbv",
+    "shipment": {
+      "id": "IcPAnNh6jtnNiMR-N6wXb",
+      "createdAt": "2025-10-29T04:55:07.129Z",
+      "trackingNumber": "892606049933",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "NE",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 8.5,
+    "invoicedPrice": 1219
+  },
+  {
+    "id": "Ar6ebc_qOsZZGjgbzKDWC",
+    "shipment": {
+      "id": "5WFGQNIBVBgF5EfSRjXds",
+      "createdAt": "2025-10-31T01:33:29.245Z",
+      "trackingNumber": "177097587077",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FI"
+    },
+    "invoicedWeight": 10.19,
+    "invoicedPrice": 998
+  },
+  {
+    "id": "5PNdT_2tNwK5vy_Us_JkU",
+    "shipment": {
+      "id": "c82RdYifyL2HqbQO-yWiI",
+      "createdAt": "2025-10-20T13:38:51.131Z",
+      "trackingNumber": "369269647660",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EE"
+    },
+    "invoicedWeight": 30.09,
+    "invoicedPrice": 3040
+  },
+  {
+    "id": "E1fTymbas32krKAWFNhvS",
+    "shipment": {
+      "id": "m3UPobeMhEXgkJSV904pj",
+      "createdAt": "2025-10-27T08:48:34.976Z",
+      "trackingNumber": "519421295200",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MP"
+    },
+    "invoicedWeight": 13.45,
+    "invoicedPrice": 2836
+  },
+  {
+    "id": "DRvXQ_pjmHwKu9Noa2plY",
+    "shipment": {
+      "id": "0-zyHrKc75_XsDUMTx4XH",
+      "createdAt": "2025-10-23T11:47:09.640Z",
+      "trackingNumber": "630774742796",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ER"
+    },
+    "invoicedWeight": 27.95,
+    "invoicedPrice": 1593
+  },
+  {
+    "id": "YO3rvX7rkE8Cuwrcz91e2",
+    "shipment": {
+      "id": "pJbvl6sE4Gqroi22RBiup",
+      "createdAt": "2025-10-15T10:39:42.874Z",
+      "trackingNumber": "933590695466",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "MK",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 9.94,
+    "invoicedPrice": 2399
+  },
+  {
+    "id": "LkZluxf5MeX3zCkvuf0Ut",
+    "shipment": {
+      "id": "NbbIG2AeH57f1zcME66jM",
+      "createdAt": "2025-10-16T03:27:30.661Z",
+      "trackingNumber": "438162158365",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CX"
+    },
+    "invoicedWeight": 22.4,
+    "invoicedPrice": 841
+  },
+  {
+    "id": "MRh2FesI2cI-4-6vGM37W",
+    "shipment": {
+      "id": "LCRYPtCWWk1jFyk3SSnm3",
+      "createdAt": "2025-10-19T20:19:24.882Z",
+      "trackingNumber": "356318701744",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FM"
+    },
+    "invoicedWeight": 2.05,
+    "invoicedPrice": 2022
+  },
+  {
+    "id": "FEBhmwm8wfoCPafct0pHk",
+    "shipment": {
+      "id": "07ULz3pgasUCetKb0ZMwz",
+      "createdAt": "2025-10-25T07:44:06.646Z",
+      "trackingNumber": "296168697206",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AT"
+    },
+    "invoicedWeight": 29.99,
+    "invoicedPrice": 731
+  },
+  {
+    "id": "BeWfpxOf_Aa5JmFez9owJ",
+    "shipment": {
+      "id": "dAVG9XimrW9cnTbruTNcv",
+      "createdAt": "2025-11-01T23:02:06.166Z",
+      "trackingNumber": "329105877815",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CA"
+    },
+    "invoicedWeight": 1.23,
+    "invoicedPrice": 3111
+  },
+  {
+    "id": "ELqMzQWzQGfAca1e0tMhy",
+    "shipment": {
+      "id": "mdnsfebpLs2ceCQZH9KGf",
+      "createdAt": "2025-11-11T15:36:22.278Z",
+      "trackingNumber": "503662282466",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SM"
+    },
+    "invoicedWeight": 21.85,
+    "invoicedPrice": 1954
+  },
+  {
+    "id": "Ntq1-qXN4CoxGSidt8doc",
+    "shipment": {
+      "id": "zZEqIyW1-FBnjFsS459Bj",
+      "createdAt": "2025-11-06T18:13:55.703Z",
+      "trackingNumber": "562322394227",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "BY",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 23.77,
+    "invoicedPrice": 671
+  },
+  {
+    "id": "YdsdE9VtpWSHy6yH6Z59X",
+    "shipment": {
+      "id": "bpW6K4l2BgPYqKHfB0v22",
+      "createdAt": "2025-10-25T03:56:47.739Z",
+      "trackingNumber": "371142624673",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MA"
+    },
+    "invoicedWeight": 27.41,
+    "invoicedPrice": 1194
+  },
+  {
+    "id": "IYr-OwUsWslH5jNs37lc9",
+    "shipment": {
+      "id": "JIFDrsNG1_SJfLOlPh1lF",
+      "createdAt": "2025-10-21T15:51:56.121Z",
+      "trackingNumber": "714517551244",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "UZ"
+    },
+    "invoicedWeight": 29.88,
+    "invoicedPrice": 2911
+  },
+  {
+    "id": "SRg_OClzwN4S4DFpWmbvc",
+    "shipment": {
+      "id": "Abjo8hKJUBECMaiOs0aHa",
+      "createdAt": "2025-11-03T07:49:35.587Z",
+      "trackingNumber": "531487634783",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ME"
+    },
+    "invoicedWeight": 11.41,
+    "invoicedPrice": 1478
+  },
+  {
+    "id": "AlOLHBJkJu0d-mAA08sJt",
+    "shipment": {
+      "id": "HgfZdsxfGmYwKIzX9_Afb",
+      "createdAt": "2025-10-24T14:40:59.353Z",
+      "trackingNumber": "060658990531",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MU"
+    },
+    "invoicedWeight": 28.62,
+    "invoicedPrice": 3193
+  },
+  {
+    "id": "xGbvA_fWVfa3KJXP9b6Qa",
+    "shipment": {
+      "id": "LT7vK5sNY6yNykpdCFnb3",
+      "createdAt": "2025-10-25T05:35:51.090Z",
+      "trackingNumber": "116648225965",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "JP",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 28.9,
+    "invoicedPrice": 2417
+  },
+  {
+    "id": "LYkvf_vt9Dv8iwdCfK5Pc",
+    "shipment": {
+      "id": "xXPbmrNg18cu8s1MeDKxU",
+      "createdAt": "2025-10-14T08:17:07.883Z",
+      "trackingNumber": "400794764222",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CN"
+    },
+    "invoicedWeight": 15.13,
+    "invoicedPrice": 174
+  },
+  {
+    "id": "mBWbhi926eSOR1no1zZs3",
+    "shipment": {
+      "id": "waWV3CWU5vGua2GtL57fC",
+      "createdAt": "2025-10-18T10:32:52.895Z",
+      "trackingNumber": "458101828667",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YE"
+    },
+    "invoicedWeight": 23.32,
+    "invoicedPrice": 1096
+  },
+  {
+    "id": "-lieUBhh70nH0iqlZ_zGT",
+    "shipment": {
+      "id": "WXClPijeRbmIMAt-iBFUX",
+      "createdAt": "2025-10-23T10:21:51.037Z",
+      "trackingNumber": "463416976531",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FK"
+    },
+    "invoicedWeight": 9.81,
+    "invoicedPrice": 3270
+  },
+  {
+    "id": "oFKIXFe9QHhDcKnZFnMEk",
+    "shipment": {
+      "id": "nFivJZPyg5mFKUl1qHU0v",
+      "createdAt": "2025-11-03T04:23:41.561Z",
+      "trackingNumber": "939240812878",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "PN",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 15.76,
+    "invoicedPrice": 392
+  },
+  {
+    "id": "ig2XHm8vJ24Ped7fJAB-l",
+    "shipment": {
+      "id": "5Dk3JDh2eyO16RlTPUJab",
+      "createdAt": "2025-11-11T05:35:44.047Z",
+      "trackingNumber": "503496882883",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HR"
+    },
+    "invoicedWeight": 1.91,
+    "invoicedPrice": 2209
+  },
+  {
+    "id": "PsY9s7Kz7O9iJ0xXgzSRw",
+    "shipment": {
+      "id": "vKZHeNW49Jf6GGLRMa140",
+      "createdAt": "2025-10-23T02:09:58.124Z",
+      "trackingNumber": "042858677921",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "WF"
+    },
+    "invoicedWeight": 9.25,
+    "invoicedPrice": 3377
+  },
+  {
+    "id": "b9yaQpb_E4-Mhw5SQAnSE",
+    "shipment": {
+      "id": "09SiOFGaVqHro-1hGq0Zj",
+      "createdAt": "2025-11-12T02:05:41.831Z",
+      "trackingNumber": "414444932834",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GI"
+    },
+    "invoicedWeight": 2.12,
+    "invoicedPrice": 727
+  },
+  {
+    "id": "3rxLqTgMMCsOjYPH1lzHk",
+    "shipment": {
+      "id": "UcqABkNc5Ja14TIngAOPF",
+      "createdAt": "2025-10-26T05:01:00.332Z",
+      "trackingNumber": "108390360816",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "US"
+    },
+    "invoicedWeight": 13.44,
+    "invoicedPrice": 2327
+  },
+  {
+    "id": "aYDXA7qB8tuMrjtHD-RSD",
+    "shipment": {
+      "id": "ZvYascOtTXuWh4DBFi9iG",
+      "createdAt": "2025-10-28T08:44:32.010Z",
+      "trackingNumber": "065672380537",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FR"
+    },
+    "invoicedWeight": 20.79,
+    "invoicedPrice": 1257
+  },
+  {
+    "id": "kslrRQ6VLterFYpJ3x4n1",
+    "shipment": {
+      "id": "iFoAiTFamfpqRVVq3i0jA",
+      "createdAt": "2025-10-28T15:09:32.218Z",
+      "trackingNumber": "165095535656",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HN"
+    },
+    "invoicedWeight": 1.37,
+    "invoicedPrice": 903
+  },
+  {
+    "id": "qE4feNwh4PTydB7fwcOP7",
+    "shipment": {
+      "id": "cE0w3-rSBwsfyK97BYPlu",
+      "createdAt": "2025-10-24T01:10:30.164Z",
+      "trackingNumber": "305669765366",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "MV",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 9.95,
+    "invoicedPrice": 2932
+  },
+  {
+    "id": "vOmDtxfU2l-tJyb8S9GbB",
+    "shipment": {
+      "id": "9iF3ehYtGjpWKoKklRdu4",
+      "createdAt": "2025-10-19T06:33:24.029Z",
+      "trackingNumber": "814954798956",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "JO"
+    },
+    "invoicedWeight": 15.97,
+    "invoicedPrice": 2964
+  },
+  {
+    "id": "XBZwv09EWew_WSshYjbbN",
+    "shipment": {
+      "id": "FdVkK8b7zS1SSU-ouYYZh",
+      "createdAt": "2025-11-02T21:47:30.055Z",
+      "trackingNumber": "174518853498",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AW"
+    },
+    "invoicedWeight": 4.1,
+    "invoicedPrice": 3296
+  },
+  {
+    "id": "ldMZQxdSLY85q8yvAKDZV",
+    "shipment": {
+      "id": "mw4BWGdOlP0de5Y4KlL4U",
+      "createdAt": "2025-10-25T00:11:37.251Z",
+      "trackingNumber": "058429615472",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ID"
+    },
+    "invoicedWeight": 1.28,
+    "invoicedPrice": 2457
+  },
+  {
+    "id": "TRXXu2X5ifJUqQScWxsyH",
+    "shipment": {
+      "id": "TNu2oUytkI17QKDgR2ZUU",
+      "createdAt": "2025-10-19T16:32:30.630Z",
+      "trackingNumber": "393247520491",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "PH",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 2.38,
+    "invoicedPrice": 2064
+  },
+  {
+    "id": "CudTiAs-SXwqRLgXjdHaE",
+    "shipment": {
+      "id": "h2-K6Umb-LxLsWOW3QvyD",
+      "createdAt": "2025-10-19T14:10:32.283Z",
+      "trackingNumber": "477181692501",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "ST",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 19.77,
+    "invoicedPrice": 443
+  },
+  {
+    "id": "TjRUcjubl3aT-CwgsrMUf",
+    "shipment": {
+      "id": "U6IFCYK7ebxPWnhAgQ6v8",
+      "createdAt": "2025-11-04T06:53:36.545Z",
+      "trackingNumber": "772375841095",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PT"
+    },
+    "invoicedWeight": 12.79,
+    "invoicedPrice": 2295
+  },
+  {
+    "id": "iRIYN6KZEv8yJM3FKeIwp",
+    "shipment": {
+      "id": "UFx0F7rFXyn_Z8ZPal-16",
+      "createdAt": "2025-10-23T00:32:42.108Z",
+      "trackingNumber": "127527968334",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YT"
+    },
+    "invoicedWeight": 27.96,
+    "invoicedPrice": 367
+  },
+  {
+    "id": "_XzYLz-xfKg0K98Tac2aF",
+    "shipment": {
+      "id": "aOtMnLjo-UA38TDlHNpkT",
+      "createdAt": "2025-10-18T12:06:11.500Z",
+      "trackingNumber": "680726921498",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TO"
+    },
+    "invoicedWeight": 21.47,
+    "invoicedPrice": 420
+  },
+  {
+    "id": "EwoKOiKxZDyTCxIpT4bzY",
+    "shipment": {
+      "id": "3bmSBWNMuPYDTUSZ1sqjk",
+      "createdAt": "2025-11-07T09:36:27.265Z",
+      "trackingNumber": "536915751306",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TK"
+    },
+    "invoicedWeight": 8.99,
+    "invoicedPrice": 840
+  },
+  {
+    "id": "BjxE7OgJYwTw9eHhMhGrz",
+    "shipment": {
+      "id": "uRzXB8fddB_GKynAGkEva",
+      "createdAt": "2025-10-14T10:58:13.138Z",
+      "trackingNumber": "025142587227",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FK"
+    },
+    "invoicedWeight": 15.81,
+    "invoicedPrice": 3693
+  },
+  {
+    "id": "2Dp5yB1HXcGupFScxvH7Y",
+    "shipment": {
+      "id": "6wJ2nEeAg_9GWj7Yn6oMF",
+      "createdAt": "2025-11-06T10:11:33.365Z",
+      "trackingNumber": "935710255738",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YE"
+    },
+    "invoicedWeight": 3.88,
+    "invoicedPrice": 591
+  },
+  {
+    "id": "Jtpk-fQ2XM2dbsGGsT3cK",
+    "shipment": {
+      "id": "k9xNC7RHH1_l5dBTH1Z1N",
+      "createdAt": "2025-11-12T07:50:53.199Z",
+      "trackingNumber": "404226378146",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TZ"
+    },
+    "invoicedWeight": 28.37,
+    "invoicedPrice": 2502
+  },
+  {
+    "id": "WLCox95mIKaFYTcYtENMs",
+    "shipment": {
+      "id": "3oxFc1ApD9c-orLUkyZDY",
+      "createdAt": "2025-10-22T12:42:49.671Z",
+      "trackingNumber": "381131466388",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GT"
+    },
+    "invoicedWeight": 13.63,
+    "invoicedPrice": 565
+  },
+  {
+    "id": "oLOtzO2_e9bAkK-rOARQ7",
+    "shipment": {
+      "id": "Z-E-8zVoQaNicSTRtuZr5",
+      "createdAt": "2025-11-09T08:40:08.227Z",
+      "trackingNumber": "401423735700",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "NE",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 10.09,
+    "invoicedPrice": 2793
+  },
+  {
+    "id": "Jeasx1YNDwOjkyy5JDy0I",
+    "shipment": {
+      "id": "gPmyt5T0cwT9_HLxgzEQq",
+      "createdAt": "2025-11-07T09:53:49.369Z",
+      "trackingNumber": "486364998467",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BJ"
+    },
+    "invoicedWeight": 15.12,
+    "invoicedPrice": 2204
+  },
+  {
+    "id": "82t5FCOchkCuFZWn5qvAd",
+    "shipment": {
+      "id": "93tH0Rfx0Tcizo9TY-OIB",
+      "createdAt": "2025-10-15T06:06:32.363Z",
+      "trackingNumber": "797425313792",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AW"
+    },
+    "invoicedWeight": 26.29,
+    "invoicedPrice": 947
+  },
+  {
+    "id": "5jvdntC0antyTGDgtg7Y-",
+    "shipment": {
+      "id": "FGB1ZCDss8akLVlvW2Z3l",
+      "createdAt": "2025-10-24T11:21:29.929Z",
+      "trackingNumber": "755851975081",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CM"
+    },
+    "invoicedWeight": 4.21,
+    "invoicedPrice": 1996
+  },
+  {
+    "id": "sRVUycxP4jOS3t1iLupTe",
+    "shipment": {
+      "id": "9i9UkopESwW1jmNgKFdmG",
+      "createdAt": "2025-10-19T16:57:39.673Z",
+      "trackingNumber": "652179203681",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ME"
+    },
+    "invoicedWeight": 8.33,
+    "invoicedPrice": 2018
+  },
+  {
+    "id": "ciUbUJc2g7hLpJAIj3-iE",
+    "shipment": {
+      "id": "ZljS3P2-4jCGR0yu0HewW",
+      "createdAt": "2025-11-03T12:24:56.196Z",
+      "trackingNumber": "213922437839",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BS"
+    },
+    "invoicedWeight": 11.71,
+    "invoicedPrice": 1094
+  },
+  {
+    "id": "6RV57bmJOEVRzD0I2mmxq",
+    "shipment": {
+      "id": "3eJLh9BfBBgia9Cq24mQH",
+      "createdAt": "2025-10-18T13:34:27.186Z",
+      "trackingNumber": "607295296983",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "LI",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 23.47,
+    "invoicedPrice": 2291
+  },
+  {
+    "id": "opPcqMG-wV8E15IshMWpP",
+    "shipment": {
+      "id": "GLi1ITAmllrTgTjYEPcYv",
+      "createdAt": "2025-10-23T09:27:05.279Z",
+      "trackingNumber": "356630242775",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GU"
+    },
+    "invoicedWeight": 15.01,
+    "invoicedPrice": 1723
+  },
+  {
+    "id": "cjlAwGYxJ9oYux5pFELht",
+    "shipment": {
+      "id": "gSxtJQdOxYJ3cLaV_GhgA",
+      "createdAt": "2025-11-06T00:24:18.708Z",
+      "trackingNumber": "831146784947",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BB"
+    },
+    "invoicedWeight": 0.67,
+    "invoicedPrice": 2833
+  },
+  {
+    "id": "SpdV98Ak9oc6bf87qLTho",
+    "shipment": {
+      "id": "J7igNz5q3VWvqE97PWU04",
+      "createdAt": "2025-10-21T19:00:02.315Z",
+      "trackingNumber": "188928210981",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "DZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 2.09,
+    "invoicedPrice": 2814
+  },
+  {
+    "id": "ii7qiTdg6LkqAqJlIVKrc",
+    "shipment": {
+      "id": "I_kQtsfdn4WJa6fHNFYFb",
+      "createdAt": "2025-10-18T07:00:26.043Z",
+      "trackingNumber": "146793361773",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YT"
+    },
+    "invoicedWeight": 13.74,
+    "invoicedPrice": 1681
+  },
+  {
+    "id": "ovRrdM2-eyvFgfcxBjFRt",
+    "shipment": {
+      "id": "dYEwoBtIm7tyjT9A-6T5y",
+      "createdAt": "2025-10-20T14:09:35.489Z",
+      "trackingNumber": "033909989646",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AW"
+    },
+    "invoicedWeight": 15.75,
+    "invoicedPrice": 3184
+  },
+  {
+    "id": "Koh89pTa_sqrEKs_WfWrx",
+    "shipment": {
+      "id": "bk1yNyR95yu9uExmh27oS",
+      "createdAt": "2025-11-07T21:02:04.240Z",
+      "trackingNumber": "853090774423",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GD"
+    },
+    "invoicedWeight": 23.75,
+    "invoicedPrice": 1689
+  },
+  {
+    "id": "QERxyM9K37DUWqAD_ptMt",
+    "shipment": {
+      "id": "3MW_EuDKlmsJmaa4JI6_0",
+      "createdAt": "2025-10-19T19:06:06.932Z",
+      "trackingNumber": "963650737521",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LC"
+    },
+    "invoicedWeight": 7.62,
+    "invoicedPrice": 1231
+  },
+  {
+    "id": "cUAxePC0pAxlVGIZZkrgj",
+    "shipment": {
+      "id": "PM0HXyiCdytCa7S8c4YJB",
+      "createdAt": "2025-10-27T06:20:17.149Z",
+      "trackingNumber": "861686180968",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "IR",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 19.36,
+    "invoicedPrice": 1163
+  },
+  {
+    "id": "djN1whPAlqAS6UYgn2-Tz",
+    "shipment": {
+      "id": "TSg4IjSTMi6573hMER9Ad",
+      "createdAt": "2025-10-22T07:42:48.187Z",
+      "trackingNumber": "170904105600",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "VC",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 9.72,
+    "invoicedPrice": 2975
+  },
+  {
+    "id": "OJZRM6vswBClanZ2yjbOz",
+    "shipment": {
+      "id": "3V4q3NBYB9708LqRnGDrY",
+      "createdAt": "2025-11-01T18:39:22.127Z",
+      "trackingNumber": "029624511869",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KH"
+    },
+    "invoicedWeight": 2.94,
+    "invoicedPrice": 3339
+  },
+  {
+    "id": "dcg_1ijeOwPOxmKw4xHEo",
+    "shipment": {
+      "id": "6V90Wgi68taXmOs4yjEpK",
+      "createdAt": "2025-11-11T04:18:00.449Z",
+      "trackingNumber": "783831249067",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SS"
+    },
+    "invoicedWeight": 21.2,
+    "invoicedPrice": 2858
+  },
+  {
+    "id": "GORINTbZzE0IzTGHtt2vs",
+    "shipment": {
+      "id": "jLonhNwiuTRAjEY5RTh6X",
+      "createdAt": "2025-11-08T00:25:44.337Z",
+      "trackingNumber": "086360862048",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TC"
+    },
+    "invoicedWeight": 27.01,
+    "invoicedPrice": 1891
+  },
+  {
+    "id": "yeQ_LSa_87xuZYtqlpH8v",
+    "shipment": {
+      "id": "JPT8lhpDEELQnwE6hXGyN",
+      "createdAt": "2025-11-11T05:55:41.245Z",
+      "trackingNumber": "005203444428",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MA"
+    },
+    "invoicedWeight": 27.21,
+    "invoicedPrice": 811
+  },
+  {
+    "id": "EmvnKnHHE5N7qHFIu1yyg",
+    "shipment": {
+      "id": "9HZe5HuRR8B6zMQ2u-ePa",
+      "createdAt": "2025-10-21T10:34:20.432Z",
+      "trackingNumber": "899231996322",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IE"
+    },
+    "invoicedWeight": 24.04,
+    "invoicedPrice": 1205
+  },
+  {
+    "id": "KndOym_917yQuj8Dgysg2",
+    "shipment": {
+      "id": "zSQJN7lZmuRMJeWTQKwuc",
+      "createdAt": "2025-10-30T08:40:56.045Z",
+      "trackingNumber": "896975525236",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AU"
+    },
+    "invoicedWeight": 11.36,
+    "invoicedPrice": 910
+  },
+  {
+    "id": "cYQbrLPag_obv72W6bywC",
+    "shipment": {
+      "id": "PR_wGmUA3G2xSb8UAyDFG",
+      "createdAt": "2025-11-01T11:48:23.088Z",
+      "trackingNumber": "851031627472",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "GU",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 2.43,
+    "invoicedPrice": 2633
+  },
+  {
+    "id": "73VBBnnQRRfNl4YaPOwSK",
+    "shipment": {
+      "id": "Te_UXUaKAtlCr3myUQHcw",
+      "createdAt": "2025-10-15T02:46:59.841Z",
+      "trackingNumber": "694734679799",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SB"
+    },
+    "invoicedWeight": 11.74,
+    "invoicedPrice": 462
+  },
+  {
+    "id": "uIMLzqeQcx6pe1IWUDzyC",
+    "shipment": {
+      "id": "Q0vOck_1a4N-6RPntGyVR",
+      "createdAt": "2025-11-04T07:26:15.652Z",
+      "trackingNumber": "610727842886",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MV"
+    },
+    "invoicedWeight": 23.5,
+    "invoicedPrice": 3156
+  },
+  {
+    "id": "4AhgI8RGdLOVQrWmy6Bnj",
+    "shipment": {
+      "id": "CgxylBdd6Igo8Gumk4Dzr",
+      "createdAt": "2025-11-04T01:17:12.651Z",
+      "trackingNumber": "317495379595",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CA"
+    },
+    "invoicedWeight": 3.95,
+    "invoicedPrice": 1514
+  },
+  {
+    "id": "B04YdrIStDJ_j6HHMrDyq",
+    "shipment": {
+      "id": "2KJ3hdW3DlNirqIB09zCT",
+      "createdAt": "2025-11-06T18:57:31.722Z",
+      "trackingNumber": "761071129896",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "IT",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 14.01,
+    "invoicedPrice": 2202
+  },
+  {
+    "id": "U6zNG0c6rGnkajHpikhMQ",
+    "shipment": {
+      "id": "tAU32E6SpKNRvAh-oyeY2",
+      "createdAt": "2025-10-27T16:06:45.986Z",
+      "trackingNumber": "353266511239",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SM"
+    },
+    "invoicedWeight": 22.21,
+    "invoicedPrice": 1585
+  },
+  {
+    "id": "AkmbitPnZC6YKxbgLok1L",
+    "shipment": {
+      "id": "ftogI4msg77iHAdkWuDi1",
+      "createdAt": "2025-10-22T01:22:25.778Z",
+      "trackingNumber": "097274178866",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "HT",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 8.91,
+    "invoicedPrice": 792
+  },
+  {
+    "id": "p4rqjcNfUms72eWtHnzGf",
+    "shipment": {
+      "id": "E0fVcmNLooIrNg1Vvfrhn",
+      "createdAt": "2025-10-19T15:53:01.906Z",
+      "trackingNumber": "715099911345",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "AW",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 4.09,
+    "invoicedPrice": 546
+  },
+  {
+    "id": "ZN_Tjk3fIoOhIwEVj5_TG",
+    "shipment": {
+      "id": "ar_hmXHsM643udoFouYIs",
+      "createdAt": "2025-10-16T09:30:07.140Z",
+      "trackingNumber": "179121748702",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PS"
+    },
+    "invoicedWeight": 12.39,
+    "invoicedPrice": 2209
+  },
+  {
+    "id": "Cws3DakNpYJbdhLUxBTWL",
+    "shipment": {
+      "id": "5byr3V5qa7M6ceNdOvyr4",
+      "createdAt": "2025-11-07T12:33:37.092Z",
+      "trackingNumber": "056499249947",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "OM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 11.93,
+    "invoicedPrice": 3369
+  },
+  {
+    "id": "LwH7ofLr9B6Rt38-j5WN6",
+    "shipment": {
+      "id": "KHkdyH9DafHbjjMK_yGmo",
+      "createdAt": "2025-10-29T18:29:59.344Z",
+      "trackingNumber": "609850158190",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BB"
+    },
+    "invoicedWeight": 8.2,
+    "invoicedPrice": 2239
+  },
+  {
+    "id": "cvki95_IhRSZQDlQXNaIi",
+    "shipment": {
+      "id": "btWPBOOTvcOq01nBQKAUW",
+      "createdAt": "2025-11-06T16:58:35.238Z",
+      "trackingNumber": "087222419241",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FR"
+    },
+    "invoicedWeight": 9.56,
+    "invoicedPrice": 3678
+  },
+  {
+    "id": "MblEMWyZrFuuIyr07YVZp",
+    "shipment": {
+      "id": "TqtDbzhYsxazytI5khM0M",
+      "createdAt": "2025-10-16T03:01:02.942Z",
+      "trackingNumber": "101702970947",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "GF",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 19.22,
+    "invoicedPrice": 1291
+  },
+  {
+    "id": "i-7jVp4XHsF-Zfor9lsXv",
+    "shipment": {
+      "id": "MCRGDeBbrs4EJdG0MqUms",
+      "createdAt": "2025-10-19T20:41:04.062Z",
+      "trackingNumber": "252451383455",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SL"
+    },
+    "invoicedWeight": 3.92,
+    "invoicedPrice": 1375
+  },
+  {
+    "id": "ibtRpOHPa5NZ5FnAHFLJP",
+    "shipment": {
+      "id": "Rj34ZFbkf7mdy3VSRS3Z5",
+      "createdAt": "2025-10-18T20:19:18.221Z",
+      "trackingNumber": "105369860260",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ET"
+    },
+    "invoicedWeight": 9.47,
+    "invoicedPrice": 2300
+  },
+  {
+    "id": "8nG_CNp9AtkGk_uHy4xyS",
+    "shipment": {
+      "id": "pPvAqkORqfwIUsout2M5p",
+      "createdAt": "2025-10-21T16:10:34.472Z",
+      "trackingNumber": "491221107897",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GM"
+    },
+    "invoicedWeight": 6.44,
+    "invoicedPrice": 3354
+  },
+  {
+    "id": "tawrihE4nveYKwnHFuPtb",
+    "shipment": {
+      "id": "N0IJ1s3NGMBbSW-qc4Lcq",
+      "createdAt": "2025-10-23T13:18:08.757Z",
+      "trackingNumber": "994898314941",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BA"
+    },
+    "invoicedWeight": 9.18,
+    "invoicedPrice": 917
+  },
+  {
+    "id": "BMCQZXghsFzUrTvgx3pMP",
+    "shipment": {
+      "id": "f-IdunljBrkGAWOw5LlPc",
+      "createdAt": "2025-10-24T18:23:21.228Z",
+      "trackingNumber": "591702482833",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GS"
+    },
+    "invoicedWeight": 6.78,
+    "invoicedPrice": 1483
+  },
+  {
+    "id": "N_6ROrIKOU8q_F-7KWpPu",
+    "shipment": {
+      "id": "-eynT-8hOEOqyG1SNYJPF",
+      "createdAt": "2025-11-12T22:53:57.919Z",
+      "trackingNumber": "992485782647",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GI"
+    },
+    "invoicedWeight": 29.17,
+    "invoicedPrice": 323
+  },
+  {
+    "id": "0NmnURZ0pLU-Fo3iNJQiV",
+    "shipment": {
+      "id": "KdcoeIIs2Bb5tPyDK7Ncs",
+      "createdAt": "2025-10-14T21:07:52.979Z",
+      "trackingNumber": "954741140887",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "LK",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.73,
+    "invoicedPrice": 3314
+  },
+  {
+    "id": "yly2Lz4Pju_zG_1iuZnOU",
+    "shipment": {
+      "id": "iVJRtIQ43_dVjUnoHQFyN",
+      "createdAt": "2025-10-20T20:20:25.923Z",
+      "trackingNumber": "031075031706",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PA"
+    },
+    "invoicedWeight": 1.21,
+    "invoicedPrice": 274
+  },
+  {
+    "id": "Y3XLzecE6uFqM03Iqm627",
+    "shipment": {
+      "id": "Mi4pgXkqXBsZ_CVfLQAf6",
+      "createdAt": "2025-10-16T16:56:09.574Z",
+      "trackingNumber": "160522195105",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "MD",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 3.58,
+    "invoicedPrice": 2304
+  },
+  {
+    "id": "LJbUgFv0xunzWITakhhoY",
+    "shipment": {
+      "id": "_6Lj_HDE9fVvM2ITN40yP",
+      "createdAt": "2025-11-02T20:46:44.048Z",
+      "trackingNumber": "896316031315",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "VA",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 23.95,
+    "invoicedPrice": 1331
+  },
+  {
+    "id": "gsILAyUHz-Weu9fYwj4Ws",
+    "shipment": {
+      "id": "mGIMKJq0CTzflFx6DBcXc",
+      "createdAt": "2025-10-23T22:35:25.989Z",
+      "trackingNumber": "605202790260",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MM"
+    },
+    "invoicedWeight": 5.83,
+    "invoicedPrice": 1810
+  },
+  {
+    "id": "awUj-0AgvXBotq6HV-0aZ",
+    "shipment": {
+      "id": "tshmkQ4BzGghwRVUO2cfq",
+      "createdAt": "2025-11-10T20:41:40.781Z",
+      "trackingNumber": "363703459350",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AM"
+    },
+    "invoicedWeight": 22.65,
+    "invoicedPrice": 1346
+  },
+  {
+    "id": "Y8PwYvnhwwzFLXjyw_4Kl",
+    "shipment": {
+      "id": "aDCuznVJwEZXf_bZP7er5",
+      "createdAt": "2025-10-24T05:04:56.768Z",
+      "trackingNumber": "737842741071",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AR"
+    },
+    "invoicedWeight": 29.87,
+    "invoicedPrice": 2575
+  },
+  {
+    "id": "x-QCKuSXEY-pn_MHLG6cg",
+    "shipment": {
+      "id": "toP9P05YC8yQVpFz87juY",
+      "createdAt": "2025-10-20T23:55:29.834Z",
+      "trackingNumber": "806096317765",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GA"
+    },
+    "invoicedWeight": 27.41,
+    "invoicedPrice": 2119
+  },
+  {
+    "id": "VxFZHSYs6Ss4rPd-TUISP",
+    "shipment": {
+      "id": "7ok0nZw6sSufhbnujj0ou",
+      "createdAt": "2025-11-02T01:30:31.088Z",
+      "trackingNumber": "856694567880",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YT"
+    },
+    "invoicedWeight": 2.03,
+    "invoicedPrice": 2049
+  },
+  {
+    "id": "5siYpPrHjf-0DnE6n7hFI",
+    "shipment": {
+      "id": "2TUuQ3n7mcUQpnmHqV9Dj",
+      "createdAt": "2025-10-26T17:43:22.430Z",
+      "trackingNumber": "078152089763",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CD"
+    },
+    "invoicedWeight": 3.48,
+    "invoicedPrice": 2207
+  },
+  {
+    "id": "_xTzRUuNc737EVZfuonpb",
+    "shipment": {
+      "id": "diHz6xvO3oX73D6LZXI5p",
+      "createdAt": "2025-11-10T08:31:27.190Z",
+      "trackingNumber": "006240098990",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ME"
+    },
+    "invoicedWeight": 15.92,
+    "invoicedPrice": 228
+  },
+  {
+    "id": "-pS_7_PHivgheYDdPbZ7Z",
+    "shipment": {
+      "id": "7k1nqevJXGBQVhDMz2Rgt",
+      "createdAt": "2025-11-08T15:00:09.790Z",
+      "trackingNumber": "780416539562",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AT"
+    },
+    "invoicedWeight": 27.27,
+    "invoicedPrice": 2428
+  },
+  {
+    "id": "ABVL4897loaJ0mfAN3eTu",
+    "shipment": {
+      "id": "xxTbsLGyn3Bl7EuDbgMd_",
+      "createdAt": "2025-11-02T04:58:18.554Z",
+      "trackingNumber": "536823353032",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MX"
+    },
+    "invoicedWeight": 26.94,
+    "invoicedPrice": 2246
+  },
+  {
+    "id": "Wi9TCQV1UBsggW8CFLRI9",
+    "shipment": {
+      "id": "xf5bZMWC_5H2yXQfxazXQ",
+      "createdAt": "2025-10-25T22:12:18.447Z",
+      "trackingNumber": "606824510755",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LB"
+    },
+    "invoicedWeight": 8.84,
+    "invoicedPrice": 873
+  },
+  {
+    "id": "9c0i4SQBNHEGEQJqDLzQj",
+    "shipment": {
+      "id": "KcuHSRBUrBGUKQRIHSMYs",
+      "createdAt": "2025-11-02T15:08:40.036Z",
+      "trackingNumber": "903447366385",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "SE",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 7.74,
+    "invoicedPrice": 3343
+  },
+  {
+    "id": "V6gemuznI7aTBuSeDbLN-",
+    "shipment": {
+      "id": "Hv7jnr0rVhOYiMfBIjw-S",
+      "createdAt": "2025-10-29T10:56:02.582Z",
+      "trackingNumber": "848277857348",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "UM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 4.95,
+    "invoicedPrice": 263
+  },
+  {
+    "id": "fsO_5w3IxkunR54FG3B6P",
+    "shipment": {
+      "id": "bbAaCeyKhzr9gSRL1mbMX",
+      "createdAt": "2025-10-27T13:27:53.200Z",
+      "trackingNumber": "744084353436",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SX"
+    },
+    "invoicedWeight": 6.77,
+    "invoicedPrice": 611
+  },
+  {
+    "id": "M-wl-o5jJBw8znie53joz",
+    "shipment": {
+      "id": "kqAutR7NvwemUQmPrA4cO",
+      "createdAt": "2025-10-26T20:05:21.771Z",
+      "trackingNumber": "124151762780",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "YE"
+    },
+    "invoicedWeight": 30.5,
+    "invoicedPrice": 459
+  },
+  {
+    "id": "WwviUgDYFIdLSQ0MwCy0N",
+    "shipment": {
+      "id": "LXsiI9h3LHCOSceK84oCM",
+      "createdAt": "2025-11-09T11:20:28.359Z",
+      "trackingNumber": "604199011078",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "LV",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.84,
+    "invoicedPrice": 2484
+  },
+  {
+    "id": "kkJfy_5gJaCrRgSbxz4pW",
+    "shipment": {
+      "id": "avbDBnHVd6NvvEItT96S2",
+      "createdAt": "2025-11-02T10:08:24.652Z",
+      "trackingNumber": "708652172292",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "UA"
+    },
+    "invoicedWeight": 5.38,
+    "invoicedPrice": 3280
+  },
+  {
+    "id": "UpyrhPcwuHKyE3hIr2EII",
+    "shipment": {
+      "id": "_6oQH91YYpisS1H_FWgDq",
+      "createdAt": "2025-10-21T08:17:24.468Z",
+      "trackingNumber": "112576728405",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AZ"
+    },
+    "invoicedWeight": 16.52,
+    "invoicedPrice": 1861
+  },
+  {
+    "id": "Wq0p_g13UVLoouh5gv7yj",
+    "shipment": {
+      "id": "ZaAOwa5vSf_aUH-K5hbcN",
+      "createdAt": "2025-11-09T20:40:06.668Z",
+      "trackingNumber": "939451610682",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KH"
+    },
+    "invoicedWeight": 12.67,
+    "invoicedPrice": 3375
+  },
+  {
+    "id": "lv2emX2Xxf2QtTjqQpPMd",
+    "shipment": {
+      "id": "e_6oIyV5WMY-QwpXcRmYR",
+      "createdAt": "2025-10-31T22:41:14.455Z",
+      "trackingNumber": "220936680390",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MA"
+    },
+    "invoicedWeight": 17.85,
+    "invoicedPrice": 190
+  },
+  {
+    "id": "YqxxHSm8tkYUcIOS6Rdwo",
+    "shipment": {
+      "id": "pqCzaUkQeJbl-5HblmoaQ",
+      "createdAt": "2025-11-09T05:56:03.987Z",
+      "trackingNumber": "667040525706",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SO"
+    },
+    "invoicedWeight": 11.83,
+    "invoicedPrice": 2968
+  },
+  {
+    "id": "6tPOz16KW2Q7UR9EdlkKt",
+    "shipment": {
+      "id": "Xq0oIHNvT8U6oANBr9w3V",
+      "createdAt": "2025-11-03T05:18:17.052Z",
+      "trackingNumber": "774609385735",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CU"
+    },
+    "invoicedWeight": 26.16,
+    "invoicedPrice": 2791
+  },
+  {
+    "id": "eHFU-H4MqRP1-3uZ5a1gj",
+    "shipment": {
+      "id": "ULonoR9zCN_nfD2QwTe_L",
+      "createdAt": "2025-10-14T19:27:53.081Z",
+      "trackingNumber": "291326905867",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "MP",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 27.07,
+    "invoicedPrice": 1746
+  },
+  {
+    "id": "e1F-x9890AWSUoCcPCedu",
+    "shipment": {
+      "id": "XZv_-neMizOr5yZtPrWeT",
+      "createdAt": "2025-11-11T07:55:52.070Z",
+      "trackingNumber": "744070202602",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "DE"
+    },
+    "invoicedWeight": 14.22,
+    "invoicedPrice": 2478
+  },
+  {
+    "id": "Wl6wVZEhlcQOnHHO7KTqL",
+    "shipment": {
+      "id": "GIYp0bYj3OmQt-CdoEJMq",
+      "createdAt": "2025-11-10T20:45:45.097Z",
+      "trackingNumber": "958261494171",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "CN",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 1.85,
+    "invoicedPrice": 3126
+  },
+  {
+    "id": "7POStFoB-LGyiUK-WwBFr",
+    "shipment": {
+      "id": "Gq4jt1JXNraOHju5dvUKa",
+      "createdAt": "2025-10-28T15:55:36.412Z",
+      "trackingNumber": "642503517421",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BJ"
+    },
+    "invoicedWeight": 29.49,
+    "invoicedPrice": 3692
+  },
+  {
+    "id": "JU2D978Y-oz4IPA4RVq8r",
+    "shipment": {
+      "id": "-YrGgd60R0BCb82K9CVM6",
+      "createdAt": "2025-11-01T18:23:24.131Z",
+      "trackingNumber": "076945591448",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LU"
+    },
+    "invoicedWeight": 16.15,
+    "invoicedPrice": 1257
+  },
+  {
+    "id": "jiacJKkpZ4rB0BJidYMVJ",
+    "shipment": {
+      "id": "-JWciO5Q_CSX7tNUGZOiU",
+      "createdAt": "2025-11-03T09:02:17.012Z",
+      "trackingNumber": "417444359424",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ST"
+    },
+    "invoicedWeight": 10,
+    "invoicedPrice": 2609
+  },
+  {
+    "id": "PvSdTWQ_72vp-h8Nl2IdE",
+    "shipment": {
+      "id": "VTamzm11FvggohTA8SoTp",
+      "createdAt": "2025-11-08T09:20:48.442Z",
+      "trackingNumber": "044099574005",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ZA"
+    },
+    "invoicedWeight": 2.09,
+    "invoicedPrice": 3319
+  },
+  {
+    "id": "YePw5iC36wcyuu473iYj1",
+    "shipment": {
+      "id": "M36yHxSSHckC2Q8etQNrK",
+      "createdAt": "2025-11-09T00:53:44.512Z",
+      "trackingNumber": "149374746439",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "PM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 26.59,
+    "invoicedPrice": 204
+  },
+  {
+    "id": "2VChlYiR3zdASiR4f1RVp",
+    "shipment": {
+      "id": "Vff4XqigYfWjW8W3_uNJW",
+      "createdAt": "2025-10-16T20:00:33.590Z",
+      "trackingNumber": "291742808143",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MX"
+    },
+    "invoicedWeight": 7.75,
+    "invoicedPrice": 1897
+  },
+  {
+    "id": "13BuwiACEFY1GtmI5fARr",
+    "shipment": {
+      "id": "DHY0FukkAA5Ju3YO_fRQo",
+      "createdAt": "2025-11-01T03:12:11.618Z",
+      "trackingNumber": "329736137672",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CD"
+    },
+    "invoicedWeight": 10.1,
+    "invoicedPrice": 899
+  },
+  {
+    "id": "Bi9Q0Lannjn_N7AU_khpH",
+    "shipment": {
+      "id": "VpA8as02b784ZeJKIMQoF",
+      "createdAt": "2025-11-02T23:25:56.194Z",
+      "trackingNumber": "171705037150",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EC"
+    },
+    "invoicedWeight": 25.97,
+    "invoicedPrice": 848
+  },
+  {
+    "id": "BuCs1lLnkLjYGeo_7JvAb",
+    "shipment": {
+      "id": "SdhqA01YQU0TWHRszrttl",
+      "createdAt": "2025-11-03T11:15:53.790Z",
+      "trackingNumber": "283221236231",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "TZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 15.12,
+    "invoicedPrice": 1619
+  },
+  {
+    "id": "HQEtBNp6n8miFt6A_nIh1",
+    "shipment": {
+      "id": "3YQy77360Zj6F3fc4euuu",
+      "createdAt": "2025-10-25T03:57:48.706Z",
+      "trackingNumber": "802018739477",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TW"
+    },
+    "invoicedWeight": 29.26,
+    "invoicedPrice": 2589
+  },
+  {
+    "id": "7QaqNDMv3AUC5o4woNDCB",
+    "shipment": {
+      "id": "fTQpwbjaS6_ct7kRoB2BX",
+      "createdAt": "2025-11-02T06:42:45.006Z",
+      "trackingNumber": "857022263906",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AZ"
+    },
+    "invoicedWeight": 25.58,
+    "invoicedPrice": 2450
+  },
+  {
+    "id": "cnmrO2ud_l2P_CaLoyYa0",
+    "shipment": {
+      "id": "fNcergclpYVihW1n5I-RM",
+      "createdAt": "2025-10-28T04:03:22.827Z",
+      "trackingNumber": "833962153368",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ZA"
+    },
+    "invoicedWeight": 27.85,
+    "invoicedPrice": 2778
+  },
+  {
+    "id": "M7jZIssSFHLwV9MWTYPxI",
+    "shipment": {
+      "id": "ktEBVCO5L09yvrGeYUn7k",
+      "createdAt": "2025-11-09T21:51:03.652Z",
+      "trackingNumber": "920383403775",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "ML",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 0.87,
+    "invoicedPrice": 2491
+  },
+  {
+    "id": "Ug2ZYCgn6y8vlz7y0GiDM",
+    "shipment": {
+      "id": "lvuFk9jChSlxCrMEX-y4l",
+      "createdAt": "2025-11-08T02:19:20.327Z",
+      "trackingNumber": "959081713083",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "NR",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 17.06,
+    "invoicedPrice": 1847
+  },
+  {
+    "id": "WrHH2RgM9PMD57SNGX5xR",
+    "shipment": {
+      "id": "9bGEOjq_q7kMKdV6R64KH",
+      "createdAt": "2025-10-20T05:27:23.134Z",
+      "trackingNumber": "133062271372",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GL"
+    },
+    "invoicedWeight": 11.67,
+    "invoicedPrice": 381
+  },
+  {
+    "id": "tuf-ha2fmzgX_p1P6EGL6",
+    "shipment": {
+      "id": "Xi3yoL5ezZBMW3Esr6m1i",
+      "createdAt": "2025-11-08T01:41:44.722Z",
+      "trackingNumber": "195826290692",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CC"
+    },
+    "invoicedWeight": 1.66,
+    "invoicedPrice": 1817
+  },
+  {
+    "id": "HTMIdPwqnN71k9-9Xf5uT",
+    "shipment": {
+      "id": "-rJiEupy7YX1CUpT1CUvO",
+      "createdAt": "2025-10-19T19:17:23.596Z",
+      "trackingNumber": "146187770143",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "RS"
+    },
+    "invoicedWeight": 12.46,
+    "invoicedPrice": 2630
+  },
+  {
+    "id": "buiS1XBnZiib-NWBLDx7N",
+    "shipment": {
+      "id": "B-ME66jB_zmBHMpFVSW-E",
+      "createdAt": "2025-10-25T11:24:28.148Z",
+      "trackingNumber": "504750361222",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GS"
+    },
+    "invoicedWeight": 6.06,
+    "invoicedPrice": 381
+  },
+  {
+    "id": "t5G34hjq_YYj8pITdzeRx",
+    "shipment": {
+      "id": "-lJMNzM0pWLXKmeH3aZmi",
+      "createdAt": "2025-11-06T10:24:30.342Z",
+      "trackingNumber": "336359649314",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "CV",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.1,
+    "invoicedPrice": 319
+  },
+  {
+    "id": "57Uan7H-iC8-YNPfoHZ3y",
+    "shipment": {
+      "id": "r5Utynw2390JJ1WwzjTQW",
+      "createdAt": "2025-11-12T07:55:31.675Z",
+      "trackingNumber": "714803647206",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MC"
+    },
+    "invoicedWeight": 17.85,
+    "invoicedPrice": 3573
+  },
+  {
+    "id": "Zshdd7fEUSMgE0K_Pp1Mt",
+    "shipment": {
+      "id": "xh3WQKK-VN6YGGK8nQK8p",
+      "createdAt": "2025-10-28T15:29:50.966Z",
+      "trackingNumber": "534287795676",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CV"
+    },
+    "invoicedWeight": 24.81,
+    "invoicedPrice": 1006
+  },
+  {
+    "id": "wy6G60czuiyPyDpy_D0EU",
+    "shipment": {
+      "id": "AqdklnSwrt9qBgym9bAYK",
+      "createdAt": "2025-11-08T20:46:27.358Z",
+      "trackingNumber": "063192152159",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "ST",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 28,
+    "invoicedPrice": 2443
+  },
+  {
+    "id": "AN4oAfvu0z3j1WNUTTrtn",
+    "shipment": {
+      "id": "2Y-rbjRQ5aT5N8roLG309",
+      "createdAt": "2025-11-07T17:10:11.184Z",
+      "trackingNumber": "455402625932",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ET"
+    },
+    "invoicedWeight": 16.25,
+    "invoicedPrice": 1283
+  },
+  {
+    "id": "v8pJh9gEudQuFnwtQnquk",
+    "shipment": {
+      "id": "Gi8nuOLYGp-hT56FkY6Rb",
+      "createdAt": "2025-10-14T02:29:36.391Z",
+      "trackingNumber": "906076364284",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GB"
+    },
+    "invoicedWeight": 10.3,
+    "invoicedPrice": 3202
+  },
+  {
+    "id": "9q3sZ22ODiXAuIoCcOvYk",
+    "shipment": {
+      "id": "bozNUVFC7cf6seY5s5xT3",
+      "createdAt": "2025-10-16T03:04:13.994Z",
+      "trackingNumber": "872521755220",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FK"
+    },
+    "invoicedWeight": 17.13,
+    "invoicedPrice": 3117
+  },
+  {
+    "id": "hLSmjIE3CXGKUCM-W9U9E",
+    "shipment": {
+      "id": "3Yde63X6DhuvBWX2bcpHQ",
+      "createdAt": "2025-10-19T16:24:59.518Z",
+      "trackingNumber": "518407766500",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PN"
+    },
+    "invoicedWeight": 24,
+    "invoicedPrice": 464
+  },
+  {
+    "id": "zA2_Pc-TNqPZyMT_cW1iN",
+    "shipment": {
+      "id": "CAhEE0_MgtH0CDHU_6XC1",
+      "createdAt": "2025-10-18T23:45:22.773Z",
+      "trackingNumber": "548668662096",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LU"
+    },
+    "invoicedWeight": 29.7,
+    "invoicedPrice": 3155
+  },
+  {
+    "id": "1gYw0LWrmG9mLUN4eCSIm",
+    "shipment": {
+      "id": "NHNudQ7t2lftFyHoCpvCs",
+      "createdAt": "2025-10-21T19:25:54.007Z",
+      "trackingNumber": "474223400071",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KN"
+    },
+    "invoicedWeight": 11.08,
+    "invoicedPrice": 3341
+  },
+  {
+    "id": "_8XU0Q3dyGmpIlGf1E0jP",
+    "shipment": {
+      "id": "_MB00ozI0_kyLnuD_tw0B",
+      "createdAt": "2025-10-28T08:50:04.007Z",
+      "trackingNumber": "580432622473",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KR"
+    },
+    "invoicedWeight": 1.18,
+    "invoicedPrice": 2406
+  },
+  {
+    "id": "3fZW8ACQEoFjwKnl5YT3b",
+    "shipment": {
+      "id": "2yaTC_HlvQ1v7ek8iLYsx",
+      "createdAt": "2025-11-03T01:29:40.636Z",
+      "trackingNumber": "862390476207",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "TG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 8.76,
+    "invoicedPrice": 1554
+  },
+  {
+    "id": "vs-xSc5GmyT6wo4hXlRD0",
+    "shipment": {
+      "id": "fCRdmBNyd9QqvFBJKgDCs",
+      "createdAt": "2025-10-14T10:41:51.317Z",
+      "trackingNumber": "609387146139",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "ID",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 15.97,
+    "invoicedPrice": 887
+  },
+  {
+    "id": "gh2z9fSY4GVZZ2qJFPRyt",
+    "shipment": {
+      "id": "zSZx1OSWW8YtUc8vhaTRN",
+      "createdAt": "2025-10-15T04:13:31.417Z",
+      "trackingNumber": "107013709808",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "NP"
+    },
+    "invoicedWeight": 11.04,
+    "invoicedPrice": 2480
+  },
+  {
+    "id": "64KELSux3ldz8Yzqh6TsZ",
+    "shipment": {
+      "id": "I2qvlptzuJl9vsKRtCgfA",
+      "createdAt": "2025-10-15T02:06:08.652Z",
+      "trackingNumber": "081232680479",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "AE",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 11.51,
+    "invoicedPrice": 243
+  },
+  {
+    "id": "aZrUGwv0I4EogqhqkuYTZ",
+    "shipment": {
+      "id": "mrhwR8zpUr1YkyDfzX--k",
+      "createdAt": "2025-10-27T13:06:14.247Z",
+      "trackingNumber": "536592468681",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "MY",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 28.73,
+    "invoicedPrice": 2304
+  },
+  {
+    "id": "FbJOp0_H5zQmREcu3wC82",
+    "shipment": {
+      "id": "fLdtv8-FwR5_97Wsoe8BM",
+      "createdAt": "2025-11-07T23:00:45.468Z",
+      "trackingNumber": "630475449674",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SM"
+    },
+    "invoicedWeight": 19.67,
+    "invoicedPrice": 1145
+  },
+  {
+    "id": "tNGlJ_8UR1UmdobMhxLBi",
+    "shipment": {
+      "id": "yZK6k4XpMpIukDcL2cQbD",
+      "createdAt": "2025-10-18T22:25:02.980Z",
+      "trackingNumber": "839263199335",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AM"
+    },
+    "invoicedWeight": 2.52,
+    "invoicedPrice": 167
+  },
+  {
+    "id": "3Q6ZFsIlqPdWnwV_v40t_",
+    "shipment": {
+      "id": "XqEEbTL1Ey1ZMpzd40SRr",
+      "createdAt": "2025-11-10T01:43:32.014Z",
+      "trackingNumber": "698046634981",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "CA",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 18.8,
+    "invoicedPrice": 2577
+  },
+  {
+    "id": "789bbvqMi2XSGCoIQdBUN",
+    "shipment": {
+      "id": "MHRyO8WqNrpweuzfZlFmi",
+      "createdAt": "2025-10-23T18:16:49.078Z",
+      "trackingNumber": "323094457771",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IE"
+    },
+    "invoicedWeight": 4.88,
+    "invoicedPrice": 2570
+  },
+  {
+    "id": "mYvS4roYo4Ja4QyBNxh8P",
+    "shipment": {
+      "id": "Gl0EqCgAmINtHakAL0ujb",
+      "createdAt": "2025-11-08T12:53:17.443Z",
+      "trackingNumber": "457322326744",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "TH",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 14.39,
+    "invoicedPrice": 1961
+  },
+  {
+    "id": "FdVCcYJVgHF4Ej9YhX0cE",
+    "shipment": {
+      "id": "YqrBEVFONbPDsCwkgse7B",
+      "createdAt": "2025-11-08T06:20:00.085Z",
+      "trackingNumber": "374099424474",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "MA",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 22.41,
+    "invoicedPrice": 1413
+  },
+  {
+    "id": "LwNfR8G3Stm0L1JeZn9GX",
+    "shipment": {
+      "id": "FxUcmWiAV69TtZB96hLhk",
+      "createdAt": "2025-10-22T00:13:41.598Z",
+      "trackingNumber": "010843730720",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EG"
+    },
+    "invoicedWeight": 12.55,
+    "invoicedPrice": 1903
+  },
+  {
+    "id": "T89B9w9iykuqyWTtAc4bH",
+    "shipment": {
+      "id": "m3MdHE2goXtJMxMVjM-o4",
+      "createdAt": "2025-10-24T10:07:44.572Z",
+      "trackingNumber": "053068841628",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MK"
+    },
+    "invoicedWeight": 28.19,
+    "invoicedPrice": 2336
+  },
+  {
+    "id": "CjtkNubDYh7ZJRpMvPqRH",
+    "shipment": {
+      "id": "PAUaLuEtZL6sHuBqWh0I8",
+      "createdAt": "2025-11-04T06:42:32.593Z",
+      "trackingNumber": "777899473961",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "VN"
+    },
+    "invoicedWeight": 22.44,
+    "invoicedPrice": 1217
+  },
+  {
+    "id": "gc50XQdz9yC0eep8kvicG",
+    "shipment": {
+      "id": "1PJPpanWuev9-r-bPHucB",
+      "createdAt": "2025-10-15T01:31:43.182Z",
+      "trackingNumber": "272148663209",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SV"
+    },
+    "invoicedWeight": 5.05,
+    "invoicedPrice": 2199
+  },
+  {
+    "id": "yfMZRQ-iK5S7Roz7Ps4B1",
+    "shipment": {
+      "id": "eEjEPLBqYsqtpHdO3InHv",
+      "createdAt": "2025-11-02T18:05:51.377Z",
+      "trackingNumber": "628271932889",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "KG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 1.91,
+    "invoicedPrice": 1479
+  },
+  {
+    "id": "kgV3cw-tkBcla-_MzpSJE",
+    "shipment": {
+      "id": "fUPedIShVxNGIWMBv2G28",
+      "createdAt": "2025-10-25T17:14:43.514Z",
+      "trackingNumber": "186587572227",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KE"
+    },
+    "invoicedWeight": 23.04,
+    "invoicedPrice": 274
+  },
+  {
+    "id": "OfupNckcsfbq1rapanU-n",
+    "shipment": {
+      "id": "XG06rtxUrTa9n7UGUvofS",
+      "createdAt": "2025-11-03T16:39:02.364Z",
+      "trackingNumber": "516555342476",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "DM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 23.28,
+    "invoicedPrice": 510
+  },
+  {
+    "id": "3d9maH9pTnt3fPDY0q8yf",
+    "shipment": {
+      "id": "HWMLiR8w5TGad6ZN6Ucyw",
+      "createdAt": "2025-10-17T03:59:51.941Z",
+      "trackingNumber": "750241462021",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CA"
+    },
+    "invoicedWeight": 0.94,
+    "invoicedPrice": 1207
+  },
+  {
+    "id": "uwUVrDZg-s-KIcE0JhLgT",
+    "shipment": {
+      "id": "K6Pe4mA5B8UrxdGyUNqxs",
+      "createdAt": "2025-10-30T17:56:07.333Z",
+      "trackingNumber": "432835335184",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AM"
+    },
+    "invoicedWeight": 6.81,
+    "invoicedPrice": 1960
+  },
+  {
+    "id": "P7yRxZQNFwfadv7OuToMP",
+    "shipment": {
+      "id": "y7vCtB9JdsuM08AQoV1yc",
+      "createdAt": "2025-10-31T19:29:21.728Z",
+      "trackingNumber": "958209392019",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LR"
+    },
+    "invoicedWeight": 6.13,
+    "invoicedPrice": 163
+  },
+  {
+    "id": "_EROZSPyCMvo7BFFuWHWZ",
+    "shipment": {
+      "id": "61ngWxm9mzZGHMXXAF_w9",
+      "createdAt": "2025-11-03T06:15:56.458Z",
+      "trackingNumber": "038122351592",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KW"
+    },
+    "invoicedWeight": 29.94,
+    "invoicedPrice": 3579
+  },
+  {
+    "id": "apzIrLpXzWYtJcV98yp9D",
+    "shipment": {
+      "id": "2NOKmvsG7C0lTrlYcNw8X",
+      "createdAt": "2025-10-18T22:05:28.981Z",
+      "trackingNumber": "627521318977",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TL"
+    },
+    "invoicedWeight": 18.75,
+    "invoicedPrice": 1983
+  },
+  {
+    "id": "chW68GyjSQaLjbcuuXZu8",
+    "shipment": {
+      "id": "twFa7vXgSo0C6ZjYMqh9Y",
+      "createdAt": "2025-11-02T01:48:50.409Z",
+      "trackingNumber": "185277704442",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "NC"
+    },
+    "invoicedWeight": 1.37,
+    "invoicedPrice": 975
+  },
+  {
+    "id": "-BS-R47JQ5H9XKzlHwLwn",
+    "shipment": {
+      "id": "0GBa5Hn7KcfLNWsBY2qTV",
+      "createdAt": "2025-10-23T10:10:19.808Z",
+      "trackingNumber": "400424370451",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HU"
+    },
+    "invoicedWeight": 5.72,
+    "invoicedPrice": 1942
+  },
+  {
+    "id": "bpJVUqBbBTwrEoFCLP_tl",
+    "shipment": {
+      "id": "XLDaG3xEaFDjQYWoWaLDi",
+      "createdAt": "2025-11-12T10:52:21.052Z",
+      "trackingNumber": "736043343178",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "JM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 12.25,
+    "invoicedPrice": 1666
+  },
+  {
+    "id": "Ng08L3iptZYdbswKgmsPJ",
+    "shipment": {
+      "id": "U0MjuOchbSiyQVBAq7KEj",
+      "createdAt": "2025-10-29T02:40:33.385Z",
+      "trackingNumber": "596187356015",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GD"
+    },
+    "invoicedWeight": 25.33,
+    "invoicedPrice": 1972
+  },
+  {
+    "id": "eFSO_zfyhDsxhPWpE_URU",
+    "shipment": {
+      "id": "glvlAkQTRmOHQyc23OTwZ",
+      "createdAt": "2025-10-29T07:26:15.813Z",
+      "trackingNumber": "429774607310",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "CW",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 2.58,
+    "invoicedPrice": 1092
+  },
+  {
+    "id": "B3AX7h-8fWS4lUjB28-w4",
+    "shipment": {
+      "id": "ShWc2eA3xFwld0bZXQfMZ",
+      "createdAt": "2025-11-07T07:30:22.408Z",
+      "trackingNumber": "084609996594",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PH"
+    },
+    "invoicedWeight": 8.02,
+    "invoicedPrice": 1063
+  },
+  {
+    "id": "CIt7HUiaDdHIlZvgsmCCN",
+    "shipment": {
+      "id": "dEweyAYkLOICABxJV5EuU",
+      "createdAt": "2025-10-28T13:55:59.266Z",
+      "trackingNumber": "436987484566",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GY"
+    },
+    "invoicedWeight": 4.07,
+    "invoicedPrice": 2657
+  },
+  {
+    "id": "gKS-4pKzJ_FzmEnIFT8uy",
+    "shipment": {
+      "id": "mZztHt2Pq2hB8-wt7k3U1",
+      "createdAt": "2025-10-27T16:17:54.502Z",
+      "trackingNumber": "698407898419",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "SK",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 11.71,
+    "invoicedPrice": 425
+  },
+  {
+    "id": "JoBwUy51xlvc_toxVZO97",
+    "shipment": {
+      "id": "2uUMuFAmOs0pHNAwNJqoc",
+      "createdAt": "2025-11-12T23:43:55.345Z",
+      "trackingNumber": "218680623026",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EG"
+    },
+    "invoicedWeight": 8.65,
+    "invoicedPrice": 2748
+  },
+  {
+    "id": "v6r5zWxlUpcf3bA35N_zv",
+    "shipment": {
+      "id": "TXXRXBefbOvO_iBbEyCcF",
+      "createdAt": "2025-10-15T14:02:04.261Z",
+      "trackingNumber": "575673928329",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "TZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 14.46,
+    "invoicedPrice": 3084
+  },
+  {
+    "id": "AQwV0o1l9el_xu_niDRXD",
+    "shipment": {
+      "id": "hA3cp_kvoKy_TkZ7uON51",
+      "createdAt": "2025-10-18T23:04:06.939Z",
+      "trackingNumber": "374827816756",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "MN",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 26.7,
+    "invoicedPrice": 1835
+  },
+  {
+    "id": "ZGG53uTYmY2ktqQLgwKlp",
+    "shipment": {
+      "id": "3OFMpm8jU74_wBAr7Owtu",
+      "createdAt": "2025-10-26T14:34:56.128Z",
+      "trackingNumber": "397412981692",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KN"
+    },
+    "invoicedWeight": 23.33,
+    "invoicedPrice": 1674
+  },
+  {
+    "id": "rMBOo8hvkyKM2dM7BSwbD",
+    "shipment": {
+      "id": "dxhPjOMM0PACBZ2iP4PR0",
+      "createdAt": "2025-10-31T06:13:12.446Z",
+      "trackingNumber": "898735593267",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KW"
+    },
+    "invoicedWeight": 29.16,
+    "invoicedPrice": 116
+  },
+  {
+    "id": "PLwHIh4QCCflLV69eDN8u",
+    "shipment": {
+      "id": "RkGlDQK2D5vDmuk6GsqeD",
+      "createdAt": "2025-11-05T01:30:27.422Z",
+      "trackingNumber": "173432405097",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BY"
+    },
+    "invoicedWeight": 29.06,
+    "invoicedPrice": 1572
+  },
+  {
+    "id": "a0iqJGtTHOgi4e7en8j3d",
+    "shipment": {
+      "id": "13PYyWyt8XSau8DwRkS-5",
+      "createdAt": "2025-10-15T10:18:06.976Z",
+      "trackingNumber": "880140871821",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "MV",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 26.09,
+    "invoicedPrice": 3605
+  },
+  {
+    "id": "JautqUry-s1IEuob1btvS",
+    "shipment": {
+      "id": "ffYs8kZTxE4veDMX7jz0s",
+      "createdAt": "2025-11-06T08:43:17.916Z",
+      "trackingNumber": "768100664322",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IE"
+    },
+    "invoicedWeight": 16.74,
+    "invoicedPrice": 2095
+  },
+  {
+    "id": "IFTt6uREUmRtp-6JGEJZT",
+    "shipment": {
+      "id": "R3qwtorHV_qB8mvpVE0YB",
+      "createdAt": "2025-10-30T19:26:50.612Z",
+      "trackingNumber": "693470747722",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "CO",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 23.1,
+    "invoicedPrice": 470
+  },
+  {
+    "id": "G7ev_87Gk-bMfxqb9iuV9",
+    "shipment": {
+      "id": "BIdIzHfAuFMB1QGNJrFBb",
+      "createdAt": "2025-10-19T08:30:25.786Z",
+      "trackingNumber": "745356244439",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KG"
+    },
+    "invoicedWeight": 0.95,
+    "invoicedPrice": 1451
+  },
+  {
+    "id": "sYeh3sdTRjXkJ5UdhQbxD",
+    "shipment": {
+      "id": "_1TWCevPK59pNMdhr3k4y",
+      "createdAt": "2025-11-10T01:14:22.431Z",
+      "trackingNumber": "848701204087",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "BG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 27.11,
+    "invoicedPrice": 229
+  },
+  {
+    "id": "Z0EIikCGWvoOZtM253jtL",
+    "shipment": {
+      "id": "Go30PNZiFRgkYWrReYA8t",
+      "createdAt": "2025-11-02T21:50:57.313Z",
+      "trackingNumber": "990807749835",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "RS"
+    },
+    "invoicedWeight": 15.2,
+    "invoicedPrice": 3222
+  },
+  {
+    "id": "pd1m6BU2QAMn5lomL-feZ",
+    "shipment": {
+      "id": "00nuaAFXRSF_IC_p_w4sS",
+      "createdAt": "2025-10-15T01:24:35.125Z",
+      "trackingNumber": "620062697632",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "ET",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 11.33,
+    "invoicedPrice": 3290
+  },
+  {
+    "id": "l_CJXpSb2G5cIPURAO5Si",
+    "shipment": {
+      "id": "EV-HytP9_KROCWbzi98II",
+      "createdAt": "2025-11-08T08:35:34.809Z",
+      "trackingNumber": "834179474920",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TL"
+    },
+    "invoicedWeight": 22.66,
+    "invoicedPrice": 2773
+  },
+  {
+    "id": "x79RrUDfsRauYIwKnU2RA",
+    "shipment": {
+      "id": "xRjw5R5J8ESJ1g3oVjIm-",
+      "createdAt": "2025-10-18T01:13:04.194Z",
+      "trackingNumber": "743535767418",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MD"
+    },
+    "invoicedWeight": 11.35,
+    "invoicedPrice": 2227
+  },
+  {
+    "id": "X2aaIJGC8Ewnt5953zv95",
+    "shipment": {
+      "id": "2pegtmnDjxROT-3gE-pu-",
+      "createdAt": "2025-10-14T17:42:28.359Z",
+      "trackingNumber": "887469174189",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "SG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 21.67,
+    "invoicedPrice": 2005
+  },
+  {
+    "id": "OD3XyWZoKz1oNYTX5F0Yf",
+    "shipment": {
+      "id": "Z2ES1sOjqvFWNsUs67BBE",
+      "createdAt": "2025-11-05T04:46:20.034Z",
+      "trackingNumber": "531947451118",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "LR",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 7.68,
+    "invoicedPrice": 2997
+  },
+  {
+    "id": "6wgq1eU5S0k0Re-vXgbji",
+    "shipment": {
+      "id": "0ngPcboCqGpCwSNrX7OXc",
+      "createdAt": "2025-10-22T22:00:42.569Z",
+      "trackingNumber": "455256025183",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GF"
+    },
+    "invoicedWeight": 7.03,
+    "invoicedPrice": 918
+  },
+  {
+    "id": "fMIrEibJdT76kL9P3lwsD",
+    "shipment": {
+      "id": "J0SCtE2yBWpZnF9FrsN4B",
+      "createdAt": "2025-10-22T04:43:31.767Z",
+      "trackingNumber": "042018563443",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LC"
+    },
+    "invoicedWeight": 4.84,
+    "invoicedPrice": 1844
+  },
+  {
+    "id": "gqcHfT_ON1y2C2GLcU_Mk",
+    "shipment": {
+      "id": "GCr-DvMaNCGEHy8T3ZkXH",
+      "createdAt": "2025-11-11T14:34:22.032Z",
+      "trackingNumber": "301687017157",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "ST",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 16.85,
+    "invoicedPrice": 3569
+  },
+  {
+    "id": "K_SbNQI78hICnIBpKbpXP",
+    "shipment": {
+      "id": "Uhg2FXXYa5q95ERBkQxfc",
+      "createdAt": "2025-10-16T13:19:23.403Z",
+      "trackingNumber": "346095804580",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FO"
+    },
+    "invoicedWeight": 28.98,
+    "invoicedPrice": 1613
+  },
+  {
+    "id": "Gg8ZKlBewcNs4nETrBpox",
+    "shipment": {
+      "id": "j-_3Bp-yTQgiLuN2tSv4Z",
+      "createdAt": "2025-10-26T14:31:10.847Z",
+      "trackingNumber": "344505086331",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LA"
+    },
+    "invoicedWeight": 20.66,
+    "invoicedPrice": 1390
+  },
+  {
+    "id": "XE3Ux_BALqFa1CzZzpM4v",
+    "shipment": {
+      "id": "Su6JnJDF9jk2Y79CtWZaa",
+      "createdAt": "2025-10-29T00:15:54.260Z",
+      "trackingNumber": "661772295454",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AF"
+    },
+    "invoicedWeight": 19.06,
+    "invoicedPrice": 3126
+  },
+  {
+    "id": "GewoHaGfsvpzHAKcQ3rDw",
+    "shipment": {
+      "id": "YnUKHlFCXnqGMWhD8HqDr",
+      "createdAt": "2025-11-12T02:26:04.492Z",
+      "trackingNumber": "254938504187",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KM"
+    },
+    "invoicedWeight": 0.58,
+    "invoicedPrice": 3621
+  },
+  {
+    "id": "SqXvuOh_sTe0qTQ1i8W5q",
+    "shipment": {
+      "id": "_gFZKd60yWX2LB9KN_Wkq",
+      "createdAt": "2025-10-16T01:25:37.680Z",
+      "trackingNumber": "881003863743",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "RW",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 10.02,
+    "invoicedPrice": 1813
+  },
+  {
+    "id": "RlIQGg5xk_3tL1mWSEKuz",
+    "shipment": {
+      "id": "zGpJ8VLyXKnhg0Cp0oac-",
+      "createdAt": "2025-10-23T09:30:33.676Z",
+      "trackingNumber": "045881565984",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TR"
+    },
+    "invoicedWeight": 26.59,
+    "invoicedPrice": 1685
+  },
+  {
+    "id": "dR-y1LRmfpAsIr4pR9GrG",
+    "shipment": {
+      "id": "RhCtIJ4J_qQUqbPa3Vfqx",
+      "createdAt": "2025-11-07T05:34:26.360Z",
+      "trackingNumber": "589803418147",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BO"
+    },
+    "invoicedWeight": 11.76,
+    "invoicedPrice": 383
+  },
+  {
+    "id": "VCXVsCLjWTOFonP64monf",
+    "shipment": {
+      "id": "4BlbUWXxdO9VvAOEXglL2",
+      "createdAt": "2025-11-01T07:55:44.777Z",
+      "trackingNumber": "437907359036",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PS"
+    },
+    "invoicedWeight": 21.01,
+    "invoicedPrice": 2162
+  },
+  {
+    "id": "uEgUtdk6xVQ3SUW_OB02S",
+    "shipment": {
+      "id": "jPT_BkuqZnj_9yEmyg9qm",
+      "createdAt": "2025-10-27T12:22:46.708Z",
+      "trackingNumber": "396448754151",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PW"
+    },
+    "invoicedWeight": 19,
+    "invoicedPrice": 583
+  },
+  {
+    "id": "ziNFddYkyG_enm_ZkE_-l",
+    "shipment": {
+      "id": "TyKJrM9Pw-xaj-Ls9dwh_",
+      "createdAt": "2025-10-31T19:08:13.032Z",
+      "trackingNumber": "256329494284",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "GI",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 6.19,
+    "invoicedPrice": 278
+  },
+  {
+    "id": "0RyW7lIQnZVRkuI0noDGi",
+    "shipment": {
+      "id": "XmHGT82fayd2x6Rc9Di8O",
+      "createdAt": "2025-10-27T20:12:18.394Z",
+      "trackingNumber": "563204959965",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "NO",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 29.32,
+    "invoicedPrice": 2348
+  },
+  {
+    "id": "pqMxiVI_0W6312anJ9521",
+    "shipment": {
+      "id": "oCOPssuvstz-gxmQVhb3X",
+      "createdAt": "2025-11-06T04:30:02.197Z",
+      "trackingNumber": "408840494145",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BH"
+    },
+    "invoicedWeight": 16.05,
+    "invoicedPrice": 1281
+  },
+  {
+    "id": "llKzZKOQvZp59X2Fu5mcZ",
+    "shipment": {
+      "id": "JNaJlIKrzqX-m1dcHWv7n",
+      "createdAt": "2025-11-04T14:44:26.051Z",
+      "trackingNumber": "651475348710",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AU"
+    },
+    "invoicedWeight": 15.76,
+    "invoicedPrice": 233
+  },
+  {
+    "id": "LAHG10BXfsbCLkGFTb6Vz",
+    "shipment": {
+      "id": "_JGk7J17H3eNjo7-l-wRf",
+      "createdAt": "2025-11-01T00:11:33.936Z",
+      "trackingNumber": "047161560234",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "CC",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 25.77,
+    "invoicedPrice": 2857
+  },
+  {
+    "id": "G2FcerzPDjTObmqMTBVNu",
+    "shipment": {
+      "id": "oRTZrLlyRDXQoc51IhISj",
+      "createdAt": "2025-10-24T00:45:37.988Z",
+      "trackingNumber": "893707536815",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LV"
+    },
+    "invoicedWeight": 18.94,
+    "invoicedPrice": 531
+  },
+  {
+    "id": "emhcTEw779jozDR5tDZ13",
+    "shipment": {
+      "id": "N07QiSuERs_EZHcYr8oW5",
+      "createdAt": "2025-11-07T13:20:49.444Z",
+      "trackingNumber": "893683540692",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SC"
+    },
+    "invoicedWeight": 14.26,
+    "invoicedPrice": 1625
+  },
+  {
+    "id": "pVWwFIjfdtjZIIs-1uEUa",
+    "shipment": {
+      "id": "I_M0B9NVK91AvkED6PJEU",
+      "createdAt": "2025-10-16T23:40:32.907Z",
+      "trackingNumber": "721029701775",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "NC"
+    },
+    "invoicedWeight": 18.85,
+    "invoicedPrice": 1187
+  },
+  {
+    "id": "l7cmOJx_TracIeh_iAqcR",
+    "shipment": {
+      "id": "OnGWa_8Zg9G-aFIn0X9iV",
+      "createdAt": "2025-10-31T13:54:33.747Z",
+      "trackingNumber": "611017394411",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MC"
+    },
+    "invoicedWeight": 10.64,
+    "invoicedPrice": 3265
+  },
+  {
+    "id": "mHRH803b8rEo8HznKK0T_",
+    "shipment": {
+      "id": "si1vkVhOf3UORn3M9OK2d",
+      "createdAt": "2025-10-20T16:07:38.385Z",
+      "trackingNumber": "347318660112",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PW"
+    },
+    "invoicedWeight": 0.69,
+    "invoicedPrice": 1046
+  },
+  {
+    "id": "-GQHD-24qBOV9RU67j0i0",
+    "shipment": {
+      "id": "0_VqxwtOjvBAzOj0fmpZ-",
+      "createdAt": "2025-11-04T23:34:30.474Z",
+      "trackingNumber": "877550448407",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EG"
+    },
+    "invoicedWeight": 4.61,
+    "invoicedPrice": 1443
+  },
+  {
+    "id": "bHN2gJ8FLbRNCIIeA1xPx",
+    "shipment": {
+      "id": "p_-pLP3w7ofXmGl5yabxQ",
+      "createdAt": "2025-11-04T15:05:20.360Z",
+      "trackingNumber": "474620952583",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "DO"
+    },
+    "invoicedWeight": 26.92,
+    "invoicedPrice": 2756
+  },
+  {
+    "id": "DXO9IZLJHqZtkOiQqMTOd",
+    "shipment": {
+      "id": "z1l0wSnGxRzCRrHM-RPfQ",
+      "createdAt": "2025-10-23T03:45:15.044Z",
+      "trackingNumber": "246683599977",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "CD",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 20.82,
+    "invoicedPrice": 2698
+  },
+  {
+    "id": "oR0ZqkKbRkpBohe9qEmaC",
+    "shipment": {
+      "id": "qzU1RVMFBn9XZTmDIk9so",
+      "createdAt": "2025-10-24T09:36:41.624Z",
+      "trackingNumber": "952611253403",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "FK",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 29.24,
+    "invoicedPrice": 3315
+  },
+  {
+    "id": "R5pwIupVtDSPQ0YmFcIBG",
+    "shipment": {
+      "id": "ZixGWcXQhyPTxV3smns_X",
+      "createdAt": "2025-11-06T15:02:27.937Z",
+      "trackingNumber": "153812592842",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KN"
+    },
+    "invoicedWeight": 17.77,
+    "invoicedPrice": 3040
+  },
+  {
+    "id": "qRj8McCqvM1SRveOdDO6X",
+    "shipment": {
+      "id": "chK3xr7B2JgErFlbkLaT-",
+      "createdAt": "2025-10-20T00:19:08.558Z",
+      "trackingNumber": "253926287522",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "UPS",
+      "mode": "IMPORT",
+      "originCountry": "JE",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 5.13,
+    "invoicedPrice": 3336
+  },
+  {
+    "id": "AdCKGU14kXkk22jTtbdaG",
+    "shipment": {
+      "id": "8T_iFiR5eq_SlWtWbV--D",
+      "createdAt": "2025-11-07T16:03:00.242Z",
+      "trackingNumber": "823606760827",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CF"
+    },
+    "invoicedWeight": 15.9,
+    "invoicedPrice": 1803
+  },
+  {
+    "id": "eospzrub2lb6l0gM0utsn",
+    "shipment": {
+      "id": "1yZ28jbjRfNAqUbEyy-zV",
+      "createdAt": "2025-10-31T11:54:25.809Z",
+      "trackingNumber": "065759131526",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CA"
+    },
+    "invoicedWeight": 18.2,
+    "invoicedPrice": 2254
+  },
+  {
+    "id": "eLpgbckdQswM1XK9ISH0R",
+    "shipment": {
+      "id": "iM16fGRS1mldOZjakF9dR",
+      "createdAt": "2025-11-06T13:28:21.307Z",
+      "trackingNumber": "518627100757",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MA"
+    },
+    "invoicedWeight": 2.93,
+    "invoicedPrice": 1550
+  },
+  {
+    "id": "gdyrsRKhGt0m5AXmlDUIM",
+    "shipment": {
+      "id": "dkWY5JbOZ-37bHcaubKQq",
+      "createdAt": "2025-10-24T03:56:55.165Z",
+      "trackingNumber": "870423302496",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "DPD",
+      "mode": "IMPORT",
+      "originCountry": "FI",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 15.01,
+    "invoicedPrice": 1916
+  },
+  {
+    "id": "91rFHfZeeMEdGhWMm21UE",
+    "shipment": {
+      "id": "zALGcb-SsdmRcT1U1t89D",
+      "createdAt": "2025-11-02T09:44:57.299Z",
+      "trackingNumber": "680050620672",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CO"
+    },
+    "invoicedWeight": 16.86,
+    "invoicedPrice": 2687
+  },
+  {
+    "id": "7KB3vlDVam0DDf47CLdyP",
+    "shipment": {
+      "id": "YeMo-USdMEjqXA-0w_EFM",
+      "createdAt": "2025-10-16T00:40:35.978Z",
+      "trackingNumber": "265877891485",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MY"
+    },
+    "invoicedWeight": 9,
+    "invoicedPrice": 448
+  },
+  {
+    "id": "sL0bpkSLk-bSkRBYLiQJ6",
+    "shipment": {
+      "id": "EKVJ2WDSZTgpWG4FVYYlP",
+      "createdAt": "2025-11-05T09:39:18.863Z",
+      "trackingNumber": "669195468667",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IE"
+    },
+    "invoicedWeight": 3.22,
+    "invoicedPrice": 299
+  },
+  {
+    "id": "O5F6e1PExncb2g0v3KMOC",
+    "shipment": {
+      "id": "pruh36m8eQMYIYpV6zDpu",
+      "createdAt": "2025-11-05T15:46:40.495Z",
+      "trackingNumber": "017109597111",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "EC",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 10.15,
+    "invoicedPrice": 1846
+  },
+  {
+    "id": "gMhpiRdlG9IeJn2vo8lpE",
+    "shipment": {
+      "id": "CPtXgWRN3_HsCZMgUxrsc",
+      "createdAt": "2025-11-07T00:47:23.577Z",
+      "trackingNumber": "832048639425",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "DK"
+    },
+    "invoicedWeight": 13.09,
+    "invoicedPrice": 755
+  },
+  {
+    "id": "-JTrAPO5j8ZtgW55pCatI",
+    "shipment": {
+      "id": "pBBvYUOyxBD9A21wjMlif",
+      "createdAt": "2025-10-29T07:09:23.829Z",
+      "trackingNumber": "583668653974",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "NC"
+    },
+    "invoicedWeight": 16.77,
+    "invoicedPrice": 3621
+  },
+  {
+    "id": "V-EtmWrWvkR5rIvH9FPer",
+    "shipment": {
+      "id": "Osmepwwz6ooK960jfkfMr",
+      "createdAt": "2025-10-29T10:08:34.301Z",
+      "trackingNumber": "391465543108",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ZA"
+    },
+    "invoicedWeight": 8.59,
+    "invoicedPrice": 2041
+  },
+  {
+    "id": "Ft-NMQpjJZd7uF7r19soR",
+    "shipment": {
+      "id": "Vp6WFc2rxq8N31-YdJC09",
+      "createdAt": "2025-11-04T09:26:34.235Z",
+      "trackingNumber": "187125701276",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "UG",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 10.49,
+    "invoicedPrice": 3200
+  },
+  {
+    "id": "0imRK0kRWcCAFrv0cPk4R",
+    "shipment": {
+      "id": "kjTK7DQ6zlDtLhoKESk1h",
+      "createdAt": "2025-11-09T17:28:18.847Z",
+      "trackingNumber": "092123903060",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BJ"
+    },
+    "invoicedWeight": 5.31,
+    "invoicedPrice": 3582
+  },
+  {
+    "id": "gNtK_5INdhtLcM9aqWfzb",
+    "shipment": {
+      "id": "EAEhTwMrP2HamJzPylz_3",
+      "createdAt": "2025-11-04T22:17:32.718Z",
+      "trackingNumber": "745270318605",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "QA"
+    },
+    "invoicedWeight": 3.63,
+    "invoicedPrice": 3053
+  },
+  {
+    "id": "nCvmnrK105oSrg80iyJS6",
+    "shipment": {
+      "id": "D_KiT2JRyra-pSqNB9jRF",
+      "createdAt": "2025-10-20T23:54:09.099Z",
+      "trackingNumber": "803435434969",
+      "company": {
+        "id": "AWCKBJRVE7FsoKZCl6z6Y",
+        "name": "Zboncak, Sporer and Mertz"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "FR"
+    },
+    "invoicedWeight": 14.96,
+    "invoicedPrice": 341
+  },
+  {
+    "id": "ECePBMfXAfJM44cKircGY",
+    "shipment": {
+      "id": "PAEQd0xu_jIBRj4g3qIjD",
+      "createdAt": "2025-10-29T13:05:45.193Z",
+      "trackingNumber": "661630867298",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TH"
+    },
+    "invoicedWeight": 11.45,
+    "invoicedPrice": 427
+  },
+  {
+    "id": "RmxHF_DW5JLWLt13o_wne",
+    "shipment": {
+      "id": "oyjWu4DP_j9A0CvvIZHSS",
+      "createdAt": "2025-11-12T14:54:37.091Z",
+      "trackingNumber": "746010979262",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SB"
+    },
+    "invoicedWeight": 7.11,
+    "invoicedPrice": 295
+  },
+  {
+    "id": "LblLJ1gOVBlEV8gckK4ox",
+    "shipment": {
+      "id": "kTUUPej6BfEmiYBQp7WpV",
+      "createdAt": "2025-11-01T08:58:50.910Z",
+      "trackingNumber": "668084370521",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SN"
+    },
+    "invoicedWeight": 7.36,
+    "invoicedPrice": 3186
+  },
+  {
+    "id": "zP0I0PjtvMsJ0JTorpMqZ",
+    "shipment": {
+      "id": "v6F-P8A0FP6AojCPHaVDd",
+      "createdAt": "2025-11-04T19:18:42.044Z",
+      "trackingNumber": "711163312780",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TW"
+    },
+    "invoicedWeight": 9.77,
+    "invoicedPrice": 1807
+  },
+  {
+    "id": "rwMcnEe6dfIoi5seE38xE",
+    "shipment": {
+      "id": "XCss-wBxhxHG2MGU2-lNh",
+      "createdAt": "2025-10-23T07:09:10.336Z",
+      "trackingNumber": "664895955426",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IM"
+    },
+    "invoicedWeight": 12.43,
+    "invoicedPrice": 2955
+  },
+  {
+    "id": "omHzWD7GBeG3dNNqSRa-B",
+    "shipment": {
+      "id": "pgXAT9Tbw3ruiVVv5ehc9",
+      "createdAt": "2025-11-01T07:06:32.327Z",
+      "trackingNumber": "365246562047",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "CH",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 6.94,
+    "invoicedPrice": 1982
+  },
+  {
+    "id": "Y0rRY7bbTES6Bix_sEMq2",
+    "shipment": {
+      "id": "2KumEsQQS5_w3TTY30iH2",
+      "createdAt": "2025-11-09T08:28:38.537Z",
+      "trackingNumber": "805192882237",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TK"
+    },
+    "invoicedWeight": 26.71,
+    "invoicedPrice": 2745
+  },
+  {
+    "id": "WZvgwvXL-XGKTjPaSPd_S",
+    "shipment": {
+      "id": "NcAqHidMk8zbsWeaS3Ad4",
+      "createdAt": "2025-11-09T03:48:32.600Z",
+      "trackingNumber": "274704667631",
+      "company": {
+        "id": "g1Dos8mxKOr9qIAJTMvjh",
+        "name": "Hackett - Murphy"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MT"
+    },
+    "invoicedWeight": 9.96,
+    "invoicedPrice": 578
+  },
+  {
+    "id": "0FqBrDjTjr0Ka_oz6ePFb",
+    "shipment": {
+      "id": "L6TvlcpgC0G4l0QdMqWpA",
+      "createdAt": "2025-10-25T01:39:18.846Z",
+      "trackingNumber": "787598291239",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SS"
+    },
+    "invoicedWeight": 6.96,
+    "invoicedPrice": 3195
+  },
+  {
+    "id": "UgoOfz8m1lw4JnXU6XwsD",
+    "shipment": {
+      "id": "RSq-43wZ3sFLuxc1VUE8J",
+      "createdAt": "2025-10-21T22:43:26.964Z",
+      "trackingNumber": "434668942198",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "VC"
+    },
+    "invoicedWeight": 1.91,
+    "invoicedPrice": 651
+  },
+  {
+    "id": "KC2jKuD6C9G4_VwWMwF8U",
+    "shipment": {
+      "id": "lY43xct7AFQbzEhOytt_j",
+      "createdAt": "2025-10-26T02:33:52.519Z",
+      "trackingNumber": "469152106755",
+      "company": {
+        "id": "Idu9MJVjujuAcFfLysyjW",
+        "name": "Ritchie - Schowalter"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AO"
+    },
+    "invoicedWeight": 3.13,
+    "invoicedPrice": 2427
+  },
+  {
+    "id": "YWCP_f7p73loKMzDOnrKm",
+    "shipment": {
+      "id": "lrNnkTFFi6Jc_VwPXY_03",
+      "createdAt": "2025-10-22T06:49:01.480Z",
+      "trackingNumber": "327563743534",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "RW"
+    },
+    "invoicedWeight": 27.42,
+    "invoicedPrice": 377
+  },
+  {
+    "id": "LDlPF3Oz3n9z3nXCdLvIF",
+    "shipment": {
+      "id": "kZWOG2ehmKCvKE-fJVP-U",
+      "createdAt": "2025-11-01T11:37:50.255Z",
+      "trackingNumber": "500655104251",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CW"
+    },
+    "invoicedWeight": 24.55,
+    "invoicedPrice": 1253
+  },
+  {
+    "id": "pomLW2aONuxs6KgYW_Aw2",
+    "shipment": {
+      "id": "f4q2fYUZ9sQL_5ayUoAmA",
+      "createdAt": "2025-11-09T11:50:46.088Z",
+      "trackingNumber": "686577718537",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TH"
+    },
+    "invoicedWeight": 5.7,
+    "invoicedPrice": 1344
+  },
+  {
+    "id": "62cJ3XeuLHZglsx5fkklv",
+    "shipment": {
+      "id": "_LCov6Mq4GsxYONqpyWHT",
+      "createdAt": "2025-10-28T07:55:52.114Z",
+      "trackingNumber": "697267836289",
+      "company": {
+        "id": "ykKCAMyVRdyR4KNJqzBYt",
+        "name": "Fritsch - Bradtke"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "EE"
+    },
+    "invoicedWeight": 13,
+    "invoicedPrice": 3101
+  },
+  {
+    "id": "0BG4SIkKVUZpkWvg4kR-I",
+    "shipment": {
+      "id": "lrZigL92Czq77jlQf_2V2",
+      "createdAt": "2025-10-19T21:20:14.562Z",
+      "trackingNumber": "039767565952",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "MZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 25.07,
+    "invoicedPrice": 743
+  },
+  {
+    "id": "A89WF7bEazwmbz8SXCqYq",
+    "shipment": {
+      "id": "1nVqwajAumHcUGxkaV2Cf",
+      "createdAt": "2025-10-27T20:34:32.044Z",
+      "trackingNumber": "207358345304",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "KZ"
+    },
+    "invoicedWeight": 27.8,
+    "invoicedPrice": 600
+  },
+  {
+    "id": "L4PDv-JK4C0F5zbCJ4nTX",
+    "shipment": {
+      "id": "25wHZiKvmVwIH6yHn41eg",
+      "createdAt": "2025-10-19T02:27:42.453Z",
+      "trackingNumber": "041804355696",
+      "company": {
+        "id": "LFh4V4jt4O2_gUyU2gSWN",
+        "name": "Schaden, Kuhn and Mitchell"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "RS"
+    },
+    "invoicedWeight": 6.53,
+    "invoicedPrice": 643
+  },
+  {
+    "id": "lP-O4m_397jJ-gX7e05Go",
+    "shipment": {
+      "id": "30XgliWJbdNdYQlxWuevy",
+      "createdAt": "2025-10-15T06:26:04.420Z",
+      "trackingNumber": "388987451570",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BS"
+    },
+    "invoicedWeight": 1.19,
+    "invoicedPrice": 366
+  },
+  {
+    "id": "GjwvA3MqTqrWIMrF4EI6x",
+    "shipment": {
+      "id": "RBwROIAkHI0zVvXqdfjeE",
+      "createdAt": "2025-10-18T15:49:04.214Z",
+      "trackingNumber": "020856858336",
+      "company": {
+        "id": "sJh7clXfcBxkyFGFWXd7-",
+        "name": "Feil Group"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BY"
+    },
+    "invoicedWeight": 25.63,
+    "invoicedPrice": 1982
+  },
+  {
+    "id": "ykDo8kua5NR9niJZU-QgD",
+    "shipment": {
+      "id": "75fasXcSapuq_dEu8uDNh",
+      "createdAt": "2025-11-12T19:41:03.756Z",
+      "trackingNumber": "676243580668",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LS"
+    },
+    "invoicedWeight": 20.14,
+    "invoicedPrice": 908
+  },
+  {
+    "id": "pxk-b1mFdmQhUPFQOEgoK",
+    "shipment": {
+      "id": "cu1G-O0MhDG3wHCBQMTaS",
+      "createdAt": "2025-10-28T19:38:04.942Z",
+      "trackingNumber": "513653922148",
+      "company": {
+        "id": "F_K4QQ8bOWnXKLFuk2vPw",
+        "name": "Witting - Schneider"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BT"
+    },
+    "invoicedWeight": 8.95,
+    "invoicedPrice": 339
+  },
+  {
+    "id": "7nTuoin250-yJAo17YRLV",
+    "shipment": {
+      "id": "3U8OF9hOlg6SaCDofdbmx",
+      "createdAt": "2025-10-29T14:08:08.385Z",
+      "trackingNumber": "386758100055",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TZ"
+    },
+    "invoicedWeight": 30.21,
+    "invoicedPrice": 113
+  },
+  {
+    "id": "l652z_xQ0QLgri3YnUWBw",
+    "shipment": {
+      "id": "6itJfVyy3C8iwiKahhgeM",
+      "createdAt": "2025-10-17T00:57:58.475Z",
+      "trackingNumber": "332599368411",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "WS"
+    },
+    "invoicedWeight": 18.78,
+    "invoicedPrice": 2672
+  },
+  {
+    "id": "zDU4psC4YVv6nvf2rwe62",
+    "shipment": {
+      "id": "VVUAB0rLN09Na_CBwUU0I",
+      "createdAt": "2025-11-03T03:55:15.252Z",
+      "trackingNumber": "755435677173",
+      "company": {
+        "id": "HxCo1G9Jga45Z3FwC0WtS",
+        "name": "Donnelly - Cassin"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "ML"
+    },
+    "invoicedWeight": 8.36,
+    "invoicedPrice": 1383
+  },
+  {
+    "id": "IK1OfrYo34v9aLVlGlfRB",
+    "shipment": {
+      "id": "UpYTwDMEocTN8R_GhXd08",
+      "createdAt": "2025-10-31T06:48:31.576Z",
+      "trackingNumber": "731343732815",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IS"
+    },
+    "invoicedWeight": 20.99,
+    "invoicedPrice": 2252
+  },
+  {
+    "id": "pkLCp8VtgagymJ384S5gp",
+    "shipment": {
+      "id": "yuox1HG7iis6y086WZv9x",
+      "createdAt": "2025-11-12T16:09:32.535Z",
+      "trackingNumber": "904314238790",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "DK"
+    },
+    "invoicedWeight": 24.45,
+    "invoicedPrice": 1278
+  },
+  {
+    "id": "ku7Q_bjNsRBwUgTzx20st",
+    "shipment": {
+      "id": "72d7anjs6u82qC9cHKLDg",
+      "createdAt": "2025-10-30T06:01:22.108Z",
+      "trackingNumber": "597234930017",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "HK"
+    },
+    "invoicedWeight": 29.45,
+    "invoicedPrice": 3590
+  },
+  {
+    "id": "Sbw-EsWc-4Q0tP-EaN61Z",
+    "shipment": {
+      "id": "098dHdwHFpvSNUq7r5IHu",
+      "createdAt": "2025-10-16T06:41:51.936Z",
+      "trackingNumber": "096209493074",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "AO",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 21.31,
+    "invoicedPrice": 2231
+  },
+  {
+    "id": "CBDSUcIIQaBo2f9jnUIg-",
+    "shipment": {
+      "id": "oNWa898Pk6qUtN7QlNhV8",
+      "createdAt": "2025-10-25T19:33:05.181Z",
+      "trackingNumber": "405184861392",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SZ"
+    },
+    "invoicedWeight": 12.23,
+    "invoicedPrice": 1553
+  },
+  {
+    "id": "k2rppMDWh_Nrj87bMA8aY",
+    "shipment": {
+      "id": "PIXtUWK_tS3-sV4oGRI2k",
+      "createdAt": "2025-11-08T09:09:28.237Z",
+      "trackingNumber": "203778256133",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "PH"
+    },
+    "invoicedWeight": 16.99,
+    "invoicedPrice": 3070
+  },
+  {
+    "id": "wt3CH3qu1yFpnGXrgXV1l",
+    "shipment": {
+      "id": "6mdeOawnGGo_1D3qy2dAy",
+      "createdAt": "2025-10-16T05:46:38.037Z",
+      "trackingNumber": "396606939036",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "SZ",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.93,
+    "invoicedPrice": 675
+  },
+  {
+    "id": "hw2dI1tAL7CJ7DuyjgBJ6",
+    "shipment": {
+      "id": "OWwSTqH2d_voPcnwweRRj",
+      "createdAt": "2025-10-18T23:27:45.371Z",
+      "trackingNumber": "350101826560",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "NI",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 25.98,
+    "invoicedPrice": 2102
+  },
+  {
+    "id": "gRsvlER8TjvJIwJ9B3hzB",
+    "shipment": {
+      "id": "0XlbigllifwRLNmDxzv5s",
+      "createdAt": "2025-10-16T10:00:57.465Z",
+      "trackingNumber": "388432629207",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BY"
+    },
+    "invoicedWeight": 1.16,
+    "invoicedPrice": 1950
+  },
+  {
+    "id": "De6rmCQSNVsUv7nFu6TyR",
+    "shipment": {
+      "id": "4nyhx2IxZuAhNn1mT8oqQ",
+      "createdAt": "2025-10-22T04:51:30.999Z",
+      "trackingNumber": "601811802200",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "HK",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 11.69,
+    "invoicedPrice": 2351
+  },
+  {
+    "id": "ld2IXDIa7vA3KWEWoGyWx",
+    "shipment": {
+      "id": "GsOCIGvSypr5hACLS00um",
+      "createdAt": "2025-10-31T22:23:35.491Z",
+      "trackingNumber": "989682345308",
+      "company": {
+        "id": "LUYTGmRFAvV9A52k09aM6",
+        "name": "Trantow and Sons"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "VG"
+    },
+    "invoicedWeight": 19.64,
+    "invoicedPrice": 1478
+  },
+  {
+    "id": "BQwHqL5fLpLonR-7dyfnO",
+    "shipment": {
+      "id": "nr3tLckvk7RxUN5BSbd5r",
+      "createdAt": "2025-10-15T07:40:36.803Z",
+      "trackingNumber": "211311343978",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BV"
+    },
+    "invoicedWeight": 10.69,
+    "invoicedPrice": 1493
+  },
+  {
+    "id": "Fh9hnTxo3FA7JJvNo1-j8",
+    "shipment": {
+      "id": "4IF_gFEYCcO6qsW2wAF83",
+      "createdAt": "2025-10-16T10:53:26.398Z",
+      "trackingNumber": "375863748617",
+      "company": {
+        "id": "Wc2Ox-ti01_hy1zOruYC0",
+        "name": "Raynor - Barrows"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TL"
+    },
+    "invoicedWeight": 13.46,
+    "invoicedPrice": 1801
+  },
+  {
+    "id": "27h2pLMZmsEFMLc7ZlqSJ",
+    "shipment": {
+      "id": "KgoKOev_fRvDK9cdnsIEc",
+      "createdAt": "2025-10-26T19:06:43.435Z",
+      "trackingNumber": "204078820745",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CN"
+    },
+    "invoicedWeight": 30.42,
+    "invoicedPrice": 585
+  },
+  {
+    "id": "2P_-ArKYkFmoLOj-IDsYe",
+    "shipment": {
+      "id": "p2BSGGSSqnK072Ij95y0k",
+      "createdAt": "2025-10-30T12:04:06.126Z",
+      "trackingNumber": "722240628817",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AO"
+    },
+    "invoicedWeight": 5.66,
+    "invoicedPrice": 1203
+  },
+  {
+    "id": "QwTEl4EuQp5-nl4AbXLXU",
+    "shipment": {
+      "id": "KEGuBDz9d6fcZi6iT3qf8",
+      "createdAt": "2025-10-20T14:35:03.738Z",
+      "trackingNumber": "361987658848",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "SI"
+    },
+    "invoicedWeight": 2.63,
+    "invoicedPrice": 3394
+  },
+  {
+    "id": "njD49o6dSadAfunG3QZvw",
+    "shipment": {
+      "id": "acRidURBZpLMWoX5DGegR",
+      "createdAt": "2025-11-08T20:54:00.766Z",
+      "trackingNumber": "600113520217",
+      "company": {
+        "id": "NCcwkC73aTgCjUcjBSGIi",
+        "name": "Roberts - Casper"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AW"
+    },
+    "invoicedWeight": 22.8,
+    "invoicedPrice": 2292
+  },
+  {
+    "id": "ZMJ5wOLRMRX8kBvOTWJB0",
+    "shipment": {
+      "id": "3JdoKm_ESpkYXZgd4hsYN",
+      "createdAt": "2025-10-22T19:01:45.835Z",
+      "trackingNumber": "041139539114",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "AF"
+    },
+    "invoicedWeight": 21.29,
+    "invoicedPrice": 381
+  },
+  {
+    "id": "HOf1-jK77SuaGQiaXtbW3",
+    "shipment": {
+      "id": "JR9IC9V5sh-cK2F3u6aU5",
+      "createdAt": "2025-10-28T07:08:11.475Z",
+      "trackingNumber": "133806562192",
+      "company": {
+        "id": "WhiAt082TzFqBSZYfSX_1",
+        "name": "Becker - Botsford"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MN"
+    },
+    "invoicedWeight": 6.86,
+    "invoicedPrice": 1447
+  },
+  {
+    "id": "Douq0dt4elNPQr9oIStB9",
+    "shipment": {
+      "id": "IZgZ-lrBmaYVDNf0BC5tM",
+      "createdAt": "2025-10-28T17:46:03.036Z",
+      "trackingNumber": "555829752315",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "FedEx",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "GR"
+    },
+    "invoicedWeight": 26.07,
+    "invoicedPrice": 3473
+  },
+  {
+    "id": "oUWPvsplr3O1gEeHnd9MA",
+    "shipment": {
+      "id": "4MYB53c8BFeCeJAJJ6fL7",
+      "createdAt": "2025-11-03T19:29:34.546Z",
+      "trackingNumber": "970264988987",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "IM"
+    },
+    "invoicedWeight": 20.06,
+    "invoicedPrice": 125
+  },
+  {
+    "id": "3tI5Mtut1aazxGK-IvH-A",
+    "shipment": {
+      "id": "nHwdQh4kHSjeUy85yKNfg",
+      "createdAt": "2025-11-02T11:48:02.060Z",
+      "trackingNumber": "981545306629",
+      "company": {
+        "id": "Jr4w_8INa-YZUYoKmjqeq",
+        "name": "Koelpin Group"
+      },
+      "provider": "PPL",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "CA"
+    },
+    "invoicedWeight": 7.5,
+    "invoicedPrice": 1887
+  },
+  {
+    "id": "RN2icyHw3XSoWSr4QfQ7C",
+    "shipment": {
+      "id": "hO-kAPZkhi9r8lrh13hjK",
+      "createdAt": "2025-11-06T15:01:00.887Z",
+      "trackingNumber": "448985594150",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "LT"
+    },
+    "invoicedWeight": 3.61,
+    "invoicedPrice": 472
+  },
+  {
+    "id": "3p9UYZm48BacfAGECEBVh",
+    "shipment": {
+      "id": "T2_nUGqSQD_gP55xNWK5r",
+      "createdAt": "2025-11-09T01:50:34.257Z",
+      "trackingNumber": "785265976497",
+      "company": {
+        "id": "3CQarPGEBRBXnZH83EWjv",
+        "name": "Volkman, Fay and Schamberger"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BL"
+    },
+    "invoicedWeight": 14.96,
+    "invoicedPrice": 1726
+  },
+  {
+    "id": "livz9jSgxFRddoQzMOsUp",
+    "shipment": {
+      "id": "1Z38YWh20M2FaNY6QGm-6",
+      "createdAt": "2025-10-27T12:51:23.845Z",
+      "trackingNumber": "146648717458",
+      "company": {
+        "id": "fGZvzkW7AW696vc97qb1-",
+        "name": "Lynch - Bartoletti"
+      },
+      "provider": "FedEx",
+      "mode": "IMPORT",
+      "originCountry": "TM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 7.47,
+    "invoicedPrice": 175
+  },
+  {
+    "id": "TZknyLEQyvZGUfW2eZwT8",
+    "shipment": {
+      "id": "dg77EXYByQnrcQArocEaH",
+      "createdAt": "2025-10-24T18:25:46.761Z",
+      "trackingNumber": "435884697093",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "DPD",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "TG"
+    },
+    "invoicedWeight": 9.77,
+    "invoicedPrice": 2831
+  },
+  {
+    "id": "988NzFyeoeknoTWzokP3-",
+    "shipment": {
+      "id": "Np8FRtDZatchPmgp0KcWQ",
+      "createdAt": "2025-10-17T20:46:54.955Z",
+      "trackingNumber": "151208320780",
+      "company": {
+        "id": "A3IUCZbzrj-Eqaj3CDEdR",
+        "name": "Marks - Hansen"
+      },
+      "provider": "PPL",
+      "mode": "IMPORT",
+      "originCountry": "NU",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 13.75,
+    "invoicedPrice": 2609
+  },
+  {
+    "id": "8GCdoOFcwzMT3oDtQGMui",
+    "shipment": {
+      "id": "ldwYYlUaqTItXLflmtogM",
+      "createdAt": "2025-10-28T04:29:57.420Z",
+      "trackingNumber": "931865086386",
+      "company": {
+        "id": "UTWf_gudeOajCpNRLRr5p",
+        "name": "Hegmann LLC"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "OM",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 7.16,
+    "invoicedPrice": 2224
+  },
+  {
+    "id": "ndVWlzaZdTXzFJV9fIMuU",
+    "shipment": {
+      "id": "NTlmoBcHLmk5inBEwCm4z",
+      "createdAt": "2025-11-08T17:31:49.402Z",
+      "trackingNumber": "242743304840",
+      "company": {
+        "id": "T9xMJHSwQfdHdRDlxniKr",
+        "name": "Keeling, Friesen and Oberbrunner"
+      },
+      "provider": "GLS",
+      "mode": "IMPORT",
+      "originCountry": "NA",
+      "destinationCountry": "CZ"
+    },
+    "invoicedWeight": 16.62,
+    "invoicedPrice": 2511
+  },
+  {
+    "id": "2AOOJLDXxwJJAQBxok-ja",
+    "shipment": {
+      "id": "plx-HM3TjKYLZylpeh0Bh",
+      "createdAt": "2025-11-11T04:19:52.560Z",
+      "trackingNumber": "728540268012",
+      "company": {
+        "id": "mOxEqmxLEL2xVRuPtfdYP",
+        "name": "Ward, Kassulke and Bosco"
+      },
+      "provider": "GLS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "MQ"
+    },
+    "invoicedWeight": 3.78,
+    "invoicedPrice": 3617
+  },
+  {
+    "id": "xNHAGrD47lpwpWACbi3Qh",
+    "shipment": {
+      "id": "5AZZjysxvGTC3yWsX5aYa",
+      "createdAt": "2025-11-01T00:43:03.345Z",
+      "trackingNumber": "412629637903",
+      "company": {
+        "id": "7gJTaWYQA8i4IjRdCrKhT",
+        "name": "Huel LLC"
+      },
+      "provider": "UPS",
+      "mode": "EXPORT",
+      "originCountry": "CZ",
+      "destinationCountry": "BB"
+    },
+    "invoicedWeight": 22.21,
+    "invoicedPrice": 3074
+  }
+]

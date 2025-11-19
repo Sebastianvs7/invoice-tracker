@@ -1,0 +1,83 @@
+{
+  "title": "Správce faktur",
+  "filterPlaceholder": "Filtrovat podle společnosti...",
+  "uploadInvoices": "Nahrát faktury",
+  "trackingNumber": "ČÍSLO",
+  "export": "EXPORT",
+  "import": "IMPORT",
+  "emptyState": {
+    "title": "Zatím žádné faktury",
+    "description": "Nahrajte soubor JSON a začněte sledovat své faktury.",
+    "action": "Nahrát první fakturu"
+  },
+  "modal": {
+    "title": "Nahrát JSON faktury",
+    "description": "Nahrajte soubor JSON obsahující data faktur pro import do správce.",
+    "preview": "Náhled",
+    "cancel": "Zrušit",
+    "confirm": "Potvrdit import",
+    "dropzone": "Přetáhněte soubor JSON sem nebo klikněte pro výběr",
+    "fileSelected": "Vybraný soubor:"
+  },
+  "theme": {
+    "light": "Světlý",
+    "dark": "Tmavý",
+    "system": "Systém"
+  },
+  "amount": "ČÁSTKA",
+  "route": "TRASA",
+  "date": "DATUM",
+  "unknownCompany": "Neznámá společnost",
+  "price": "Cena",
+  "weight": "Hmotnost",
+  "notAvailable": "N/A",
+  "invoicesCount": "Faktury:",
+  "reachedEnd": "Dosáhli jste konce.",
+  "allCompanies": "Všechny společnosti",
+  "loadingShipments": "Načítání zásilek",
+  "loadingShipmentsText": "Načítání zásilek...",
+  "loadingMoreShipments": "Načítání dalších zásilek",
+  "loadingMoreShipmentsText": "Načítání dalších zásilek...",
+  "changeLanguage": "Změnit jazyk",
+  "failedToFetchShipments": "Nepodařilo se načíst zásilky",
+  "uploading": "Nahrávání...",
+  "tablePreview": "Náhled tabulky obsahující data faktur z nahraného JSON souboru.",
+  "invoiceId": "ID faktury",
+  "trackingNumberHeader": "Číslo zásilky",
+  "company": "Společnost",
+  "provider": "Poskytovatel",
+  "mode": "Režim",
+  "weightKg": "Hmotnost (kg)",
+  "priceKc": "Cena (Kč)",
+  "totalInvoices": "Celkem faktur:",
+  "jsonMustBeArray": "JSON musí být pole faktur",
+  "failedToParseJson": "Nepodařilo se parsovat JSON soubor. Zkontrolujte formát souboru.",
+  "failedToUpload": "Nepodařilo se nahrát faktury",
+  "failedToUploadRetry": "Nepodařilo se nahrát faktury. Zkuste to znovu.",
+  "failedToProcessInvoices": "Nepodařilo se zpracovat faktury",
+  "failedToProcessUpload": "Nepodařilo se zpracovat nahrání",
+  "toast": {
+    "uploadSuccess": "Faktury úspěšně nahrány",
+    "uploadSuccessDescription": "Vaše faktury byly úspěšně importovány.",
+    "uploadError": "Nahrání selhalo",
+    "uploadErrorDescription": "Nepodařilo se nahrát faktury. Zkuste to znovu.",
+    "parseError": "Neplatný formát souboru",
+    "parseErrorDescription": "Nepodařilo se parsovat JSON soubor. Zkontrolujte formát souboru.",
+    "fileError": "Chyba souboru",
+    "fileErrorDescription": "Při zpracování souboru došlo k chybě."
+  },
+  "upload": {
+    "processingInvoice": "Zpracování faktury {current} z {total}"
+  },
+  "history": {
+    "title": "Historie faktur",
+    "viewHistory": "Zobrazit historii",
+    "noHistory": "Historie faktur není k dispozici",
+    "loading": "Načítání historie...",
+    "failedToLoad": "Nepodařilo se načíst historii faktur",
+    "invoiceDate": "Datum",
+    "invoiceWeight": "Hmotnost",
+    "invoicePrice": "Cena",
+    "latest": "Nejnovější"
+  }
+}

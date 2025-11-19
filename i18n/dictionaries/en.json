@@ -1,0 +1,83 @@
+{
+  "title": "Invoice Tracker",
+  "filterPlaceholder": "Filter by company...",
+  "uploadInvoices": "Upload Invoices",
+  "trackingNumber": "TRK#",
+  "export": "EXPORT",
+  "import": "IMPORT",
+  "emptyState": {
+    "title": "No invoices yet",
+    "description": "Upload a JSON file to get started with tracking your invoices.",
+    "action": "Upload your first invoice"
+  },
+  "modal": {
+    "title": "Upload Invoice JSON",
+    "description": "Upload a JSON file containing invoice data to import into the tracker.",
+    "preview": "Preview",
+    "cancel": "Cancel",
+    "confirm": "Confirm Import",
+    "dropzone": "Drop your JSON file here or click to browse",
+    "fileSelected": "File selected:"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "amount": "AMOUNT",
+  "route": "ROUTE",
+  "date": "DATE",
+  "unknownCompany": "Unknown company",
+  "price": "Price",
+  "weight": "Weight",
+  "notAvailable": "N/A",
+  "invoicesCount": "Invoices:",
+  "reachedEnd": "You have reached the end.",
+  "allCompanies": "All Companies",
+  "loadingShipments": "Loading shipments",
+  "loadingShipmentsText": "Loading shipments...",
+  "loadingMoreShipments": "Loading more shipments",
+  "loadingMoreShipmentsText": "Loading more shipments...",
+  "changeLanguage": "Change language",
+  "failedToFetchShipments": "Failed to fetch shipments",
+  "uploading": "Uploading...",
+  "tablePreview": "Table preview containing the invoice data from the uploaded JSON.",
+  "invoiceId": "Invoice ID",
+  "trackingNumberHeader": "Tracking Number",
+  "company": "Company",
+  "provider": "Provider",
+  "mode": "Mode",
+  "weightKg": "Weight (kg)",
+  "priceKc": "Price (Kč)",
+  "totalInvoices": "Total invoices:",
+  "jsonMustBeArray": "JSON must be an array of invoices",
+  "failedToParseJson": "Failed to parse JSON file. Please check the file format.",
+  "failedToUpload": "Failed to upload invoices",
+  "failedToUploadRetry": "Failed to upload invoices. Please try again.",
+  "failedToProcessInvoices": "Failed to process invoices",
+  "failedToProcessUpload": "Failed to process upload",
+  "toast": {
+    "uploadSuccess": "Invoices uploaded successfully",
+    "uploadSuccessDescription": "Your invoices have been imported successfully.",
+    "uploadError": "Upload failed",
+    "uploadErrorDescription": "Failed to upload invoices. Please try again.",
+    "parseError": "Invalid file format",
+    "parseErrorDescription": "Failed to parse JSON file. Please check the file format.",
+    "fileError": "File error",
+    "fileErrorDescription": "An error occurred while processing the file."
+  },
+  "upload": {
+    "processingInvoice": "Processing invoice {current} of {total}"
+  },
+  "history": {
+    "title": "Invoice History",
+    "viewHistory": "View History",
+    "noHistory": "No invoice history available",
+    "loading": "Loading history...",
+    "failedToLoad": "Failed to load invoice history",
+    "invoiceDate": "Date",
+    "invoiceWeight": "Weight",
+    "invoicePrice": "Price",
+    "latest": "Latest"
+  }
+}
