@@ -16,6 +16,14 @@ export interface SSECompleteEvent {
   errors?: Array<{ invoiceId: string; error: string }>;
 }
 
+export interface SSEResumeEvent {
+  processed: number;
+  total: number;
+  nextStartIndex: number;
+  succeeded: number;
+  errors: Array<{ invoiceId: string; error: string }>;
+}
+
 export interface SSEErrorEvent {
   message: string;
   details?: unknown;
@@ -24,6 +32,7 @@ export interface SSEErrorEvent {
 export interface SSEHandlers {
   onProgress?: (data: SSEProgressEvent) => void;
   onComplete?: (data: SSECompleteEvent) => void;
+  onResume?: (data: SSEResumeEvent) => void;
   onError?: (data: SSEErrorEvent) => void;
 }
 
@@ -91,8 +100,8 @@ export function connectSSE(
         const { done, value } = readResult;
 
         if (done) {
-          // Stream ended - check if we got a complete event
-          if (!receivedComplete && lastEvent !== "error") {
+          // Stream ended - check if we got a complete event or resume event
+          if (!receivedComplete && lastEvent !== "error" && lastEvent !== "resume") {
             // Stream ended unexpectedly
             handlers.onError?.({
               message: "Connection closed unexpectedly before completion",
@@ -132,6 +141,10 @@ export function connectSSE(
               if (currentEvent === "progress") {
                 handlers.onProgress?.(data as SSEProgressEvent);
                 lastEvent = "progress";
+              } else if (currentEvent === "resume") {
+                lastEvent = "resume";
+                handlers.onResume?.(data as SSEResumeEvent);
+                break; // Close connection to allow reconnection
               } else if (currentEvent === "complete") {
                 receivedComplete = true;
                 lastEvent = "complete";

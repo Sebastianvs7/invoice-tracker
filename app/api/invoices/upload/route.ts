@@ -72,6 +72,12 @@ export async function POST(request: NextRequest) {
       request.headers.get("accept")?.includes("text/event-stream") ||
       request.nextUrl.searchParams.get("sse") === "true";
 
+    // Get start index for resumable uploads (defaults to 0)
+    const startIndex = parseInt(
+      request.nextUrl.searchParams.get("startIndex") || "0",
+      10
+    );
+
     // Validate the JSON structure
     const validationResult = invoiceArraySchema.safeParse(body);
 
@@ -112,7 +118,7 @@ export async function POST(request: NextRequest) {
       const stream = new ReadableStream({
         async start(controller) {
           const results = {
-            processed: 0, // Total invoices processed (attempted)
+            processed: startIndex, // Start from the resume point
             succeeded: 0, // Successfully processed invoices
             errors: [] as Array<{ invoiceId: string; error: string }>,
           };
@@ -121,6 +127,7 @@ export async function POST(request: NextRequest) {
             const batchSize = 10; // Reduced batch size to avoid overwhelming Supabase
             let lastKeepAlive = Date.now();
             const keepAliveInterval = 8000; // Send keep-alive every 8 seconds (very frequent)
+            const maxConnectionTime = 110000; // 110 seconds (just under 2 minutes to be safe)
 
             // Send initial keep-alive
             try {
@@ -129,8 +136,24 @@ export async function POST(request: NextRequest) {
               console.error("Failed to send initial keep-alive:", e);
             }
 
-            // Process in batches
-            for (let i = 0; i < invoices.length; i += batchSize) {
+            const connectionStartTime = Date.now();
+
+            // Process in batches, starting from startIndex
+            for (let i = startIndex; i < invoices.length; i += batchSize) {
+              // Check if we need to close connection for renewal (after ~2 minutes)
+              const connectionDuration = Date.now() - connectionStartTime;
+              if (connectionDuration > maxConnectionTime) {
+                // Send resume event with current progress
+                sendSSE(controller, "resume", {
+                  processed: results.processed,
+                  total: invoices.length,
+                  nextStartIndex: i,
+                  succeeded: results.succeeded,
+                  errors: results.errors,
+                });
+                controller.close();
+                return; // Close connection to allow client to reconnect
+              }
               try {
                 const batch = invoices.slice(i, i + batchSize);
 
@@ -241,18 +264,30 @@ export async function POST(request: NextRequest) {
               }
             }
 
-            // Send completion event
-            if (results.errors.length > 0 && results.succeeded === 0) {
-              sendSSE(controller, "error", {
-                message: "failedToProcessInvoices",
-                details: results.errors,
-              });
+            // Send completion event (only if we've processed all invoices)
+            if (results.processed >= invoices.length) {
+              if (results.errors.length > 0 && results.succeeded === 0) {
+                sendSSE(controller, "error", {
+                  message: "failedToProcessInvoices",
+                  details: results.errors,
+                });
+              } else {
+                sendSSE(controller, "complete", {
+                  success: true,
+                  processed: results.succeeded,
+                  total: invoices.length,
+                  errors:
+                    results.errors.length > 0 ? results.errors : undefined,
+                });
+              }
             } else {
-              sendSSE(controller, "complete", {
-                success: true,
-                processed: results.succeeded,
+              // Should not reach here if resume logic is working, but handle it just in case
+              sendSSE(controller, "resume", {
+                processed: results.processed,
                 total: invoices.length,
-                errors: results.errors.length > 0 ? results.errors : undefined,
+                nextStartIndex: results.processed,
+                succeeded: results.succeeded,
+                errors: results.errors,
               });
             }
           } catch (error) {

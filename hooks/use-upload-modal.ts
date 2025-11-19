@@ -79,17 +79,22 @@ export function useUploadModal({
   );
 
   const handleUpload = useCallback(
-    async (data: InvoiceData[]): Promise<void> => {
-      return new Promise((resolve, reject) => {
+    async (data: InvoiceData[], startIndex: number = 0): Promise<void> => {
+      return new Promise(async (resolve, reject) => {
         // Clean up any existing SSE connection
         if (sseCleanupRef.current) {
           sseCleanupRef.current();
         }
 
         const total = data.length;
-        setUploadProgress({ processed: 0, total, percentage: 0 });
+        if (startIndex === 0) {
+          setUploadProgress({ processed: 0, total, percentage: 0 });
+        }
 
-        const cleanup = connectSSE("/api/invoices/upload", data, {
+        // Build URL with startIndex for resumable uploads
+        const url = `/api/invoices/upload?startIndex=${startIndex}&sse=true`;
+
+        const cleanup = connectSSE(url, data, {
           onProgress: (progressData) => {
             const percentage = Math.round(
               (progressData.processed / progressData.total) * 100
@@ -100,9 +105,37 @@ export function useUploadModal({
               percentage,
             });
           },
+          onResume: async (resumeData) => {
+            // Update progress
+            const percentage = Math.round(
+              (resumeData.processed / resumeData.total) * 100
+            );
+            setUploadProgress({
+              processed: resumeData.processed,
+              total: resumeData.total,
+              percentage,
+            });
+
+            // Clean up current connection
+            if (sseCleanupRef.current) {
+              sseCleanupRef.current();
+              sseCleanupRef.current = null;
+            }
+
+            // Wait a moment before reconnecting
+            await new Promise((r) => setTimeout(r, 500));
+
+            // Reconnect with the new start index
+            try {
+              await handleUpload(data, resumeData.nextStartIndex);
+              resolve();
+            } catch (err) {
+              reject(err);
+            }
+          },
           onComplete: async (completeData) => {
             setUploadProgress({
-              processed: completeData.processed,
+              processed: completeData.total,
               total: completeData.total,
               percentage: 100,
             });
@@ -119,6 +152,11 @@ export function useUploadModal({
             resolve();
           },
           onError: (errorData) => {
+            // Only reject on actual errors, not resume events
+            if (errorData.message?.includes("resume")) {
+              return; // Resume will be handled by onResume
+            }
+
             setUploadProgress(null);
             // Translate error message if it's a translation key
             let errorMessage = t.failedToUpload;
