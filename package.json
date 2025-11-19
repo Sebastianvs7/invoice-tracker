@@ -6,8 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "eslint .",
-    "start": "next start",
-    "postinstall": "patch-package"
+    "start": "next start"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "1.1.4",
@@ -38,7 +37,6 @@
     "@types/react-dom": "^19",
     "eslint": "^9.39.1",
     "eslint-config-next": "^16.0.3",
-    "patch-package": "^8.0.1",
     "postcss": "^8.5",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.9",
